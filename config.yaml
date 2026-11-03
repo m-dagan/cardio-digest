@@ -1,0 +1,181 @@
+# Cardiopulmonary literature digest — configuration
+#
+# Journals are matched in PubMed by NLM title abbreviation ([ta] field).
+# Each weekly run also checks every journal over the past 120 days; any
+# abbreviation that returns nothing is listed under "Journal warnings" at the
+# bottom of the digest so it can be corrected here.
+#
+# Set `enabled: false` on a family (or delete a line) to stop searching it.
+
+settings:
+  lookback_days: 8          # search window (Entrez date); 1 day overlap, duplicates are removed
+  seen_memory_weeks: 12     # PMIDs already shown in this many past digests are not repeated
+  max_articles: 250         # safety cap per digest
+  health_check: true        # verify every journal abbreviation still returns records
+  exclude_publication_types:
+    - Published Erratum
+    - Retraction of Publication
+    - Expression of Concern
+    - Retracted Publication
+  ai_summary:
+    enabled: auto           # auto = use Claude only if the ANTHROPIC_API_KEY secret is set
+    model: claude-haiku-5-5
+    max_articles: 120
+
+topics:
+  - id: ph
+    label: Pulmonary hypertension
+    colour: violet
+    query: >-
+      "Hypertension, Pulmonary"[MeSH] OR "pulmonary hypertension"[tiab]
+      OR "pulmonary arterial hypertension"[tiab] OR "chronic thromboembolic"[tiab]
+      OR CTEPH[tiab] OR "pulmonary vascular resistance"[tiab]
+      OR "pulmonary vascular disease"[tiab] OR "pulmonary vasculopathy"[tiab]
+      OR "pulmonary arterial compliance"[tiab] OR "right ventricular-pulmonary arterial coupling"[tiab]
+      OR "RV-PA coupling"[tiab] OR sotatercept[tiab] OR "Eisenmenger"[tiab]
+
+  - id: hfpef
+    label: HFpEF
+    colour: teal
+    query: >-
+      "Heart Failure, Diastolic"[MeSH] OR HFpEF[tiab]
+      OR "preserved ejection fraction"[tiab] OR "diastolic heart failure"[tiab]
+      OR "HFmrEF"[tiab] OR "mildly reduced ejection fraction"[tiab]
+      OR "H2FPEF"[tiab] OR "HFA-PEFF"[tiab]
+
+  - id: tr
+    label: Tricuspid regurgitation
+    colour: amber
+    query: >-
+      "Tricuspid Valve Insufficiency"[MeSH] OR "tricuspid regurgitation"[tiab]
+      OR "tricuspid valve"[tiab] OR "tricuspid insufficiency"[tiab]
+      OR "transcatheter tricuspid"[tiab] OR "T-TEER"[tiab] OR TTVR[tiab]
+      OR "tricuspid annul*"[tiab]
+
+  - id: haemo
+    label: Invasive haemodynamics
+    colour: blue
+    query: >-
+      "Pulmonary Wedge Pressure"[MeSH] OR "Catheterization, Swan-Ganz"[MeSH]
+      OR "right heart catheterization"[tiab] OR "right heart catheterisation"[tiab]
+      OR "right-heart catheterization"[tiab] OR "invasive hemodynamic*"[tiab]
+      OR "invasive haemodynamic*"[tiab] OR "invasive exercise"[tiab]
+      OR "exercise hemodynamic*"[tiab] OR "exercise haemodynamic*"[tiab]
+      OR "wedge pressure"[tiab] OR "pulmonary capillary wedge"[tiab]
+      OR "pulmonary artery wedge"[tiab] OR "left ventricular filling pressure*"[tiab]
+      OR "pressure-volume loop*"[tiab] OR "pressure-volume analysis"[tiab]
+      OR "conductance catheter*"[tiab] OR "pulmonary artery catheter*"[tiab]
+      OR "saline challenge"[tiab] OR "saline loading"[tiab]
+
+  - id: advhf
+    label: Advanced heart failure
+    colour: rose
+    query: >-
+      "Heart-Assist Devices"[MeSH] OR "Heart Transplantation"[MeSH]
+      OR "Shock, Cardiogenic"[MeSH] OR "advanced heart failure"[tiab]
+      OR "end-stage heart failure"[tiab] OR "left ventricular assist device*"[tiab]
+      OR LVAD[tiab] OR "mechanical circulatory support"[tiab]
+      OR "heart transplant*"[tiab] OR "cardiac transplant*"[tiab]
+      OR "cardiogenic shock"[tiab] OR Impella[tiab] OR "VA-ECMO"[tiab]
+      OR "venoarterial extracorporeal"[tiab] OR "veno-arterial extracorporeal"[tiab]
+      OR "palliative inotrop*"[tiab]
+
+journals:
+  - family: JACC
+    enabled: true
+    titles:
+      - J Am Coll Cardiol
+      - JACC Heart Fail
+      - JACC Cardiovasc Interv
+      - JACC Cardiovasc Imaging
+      - JACC Basic Transl Sci
+      - JACC Clin Electrophysiol
+      - JACC CardioOncol
+      - JACC Adv
+      - JACC Asia
+      - JACC Case Rep
+
+  - family: European Heart Journal / ESC
+    enabled: true
+    titles:
+      - Eur Heart J
+      - Eur Heart J Cardiovasc Imaging
+      - Eur Heart J Acute Cardiovasc Care
+      - Eur Heart J Cardiovasc Pharmacother
+      - Eur Heart J Qual Care Clin Outcomes
+      - Eur Heart J Digit Health
+      - Eur Heart J Open
+      - Eur Heart J Imaging Methods Pract
+      - Eur Heart J Case Rep
+      - Eur J Heart Fail
+      - ESC Heart Fail
+      - Eur J Prev Cardiol
+      - Europace
+      - Cardiovasc Res
+      - EuroIntervention
+
+  - family: Circulation / AHA
+    enabled: true
+    titles:
+      - Circulation
+      - Circ Res
+      - Circ Heart Fail
+      - Circ Cardiovasc Interv
+      - Circ Cardiovasc Imaging
+      - Circ Arrhythm Electrophysiol
+      - Circ Cardiovasc Qual Outcomes
+      - Circ Genom Precis Med
+      - J Am Heart Assoc
+
+  - family: ERS
+    enabled: true
+    titles:
+      - Eur Respir J
+      - ERJ Open Res
+      - Eur Respir Rev
+      - Breathe (Sheff)
+
+  - family: General medical
+    enabled: true
+    titles:
+      - N Engl J Med
+      - NEJM Evid
+      - Lancet
+      - JAMA
+      - JAMA Cardiol
+      - JAMA Intern Med
+      - JAMA Netw Open
+      - BMJ
+      - Nat Med
+
+  - family: Respiratory / pulmonary vascular
+    enabled: true
+    titles:
+      - Chest
+      - CHEST Pulm
+      - Am J Respir Crit Care Med
+      - Lancet Respir Med
+      - Ann Am Thorac Soc
+      - Pulm Circ
+      - Thorax
+
+  - family: Heart failure, transplant & MCS
+    enabled: true
+    titles:
+      - J Heart Lung Transplant
+      - JHLT Open
+      - J Card Fail
+      - ASAIO J
+
+  - family: Other cardiology & physiology
+    enabled: true
+    titles:
+      - Nat Rev Cardiol
+      - Am Heart J
+      - Heart
+      - J Am Soc Echocardiogr
+      - J Soc Cardiovasc Angiogr Interv
+      - Catheter Cardiovasc Interv
+      - Am J Physiol Heart Circ Physiol
+      - J Appl Physiol (1985)
+      - Can J Cardiol

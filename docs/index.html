@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Weekly Literature Digest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f2; --surface:#ffffff; --surface-2:#f0eeea; --ink:#1d1c1a; --ink-2:#55524c; --ink-3:#8a867e;
+  --line:#e3e0da; --accent:#7a2e3a; --focus:#3d63c9;
+  --violet:#6d4bc4; --violet-bg:#efeafb;
+  --teal:#11786f;   --teal-bg:#e3f3f1;
+  --amber:#a8630b;  --amber-bg:#fbf0de;
+  --blue:#2a5cb8;   --blue-bg:#e6eefb;
+  --rose:#b3374f;   --rose-bg:#fbe8ec;
+  --shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#151513; --surface:#1e1d1b; --surface-2:#262522; --ink:#ece9e3; --ink-2:#b5b0a7; --ink-3:#827d74;
+    --line:#33312d; --accent:#e08c98; --focus:#8aa8ff;
+    --violet:#b49cf2; --violet-bg:#2a2340; --teal:#5fcabd; --teal-bg:#17302d;
+    --amber:#e9b25c;  --amber-bg:#3a2c16; --blue:#8db0f3; --blue-bg:#1b2840;
+    --rose:#f08da1;   --rose-bg:#3d1e26;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#151513; --surface:#1e1d1b; --surface-2:#262522; --ink:#ece9e3; --ink-2:#b5b0a7; --ink-3:#827d74;
+  --line:#33312d; --accent:#e08c98; --focus:#8aa8ff;
+  --violet:#b49cf2; --violet-bg:#2a2340; --teal:#5fcabd; --teal-bg:#17302d;
+  --amber:#e9b25c;  --amber-bg:#3a2c16; --blue:#8db0f3; --blue-bg:#1b2840;
+  --rose:#f08da1;   --rose-bg:#3d1e26;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:14px/1.5 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px 48px}
+
+header{position:sticky;top:0;z-index:5;background:var(--bg);padding:18px 0 10px;border-bottom:1px solid var(--line)}
+.top{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font:600 21px/1.2 "Source Serif 4",Georgia,serif;margin:0;letter-spacing:-.01em}
+h1 span{color:var(--accent)}
+.sub{color:var(--ink-2);font-size:12.5px;margin-top:3px}
+select,input{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:6px 9px}
+select:focus-visible,input:focus-visible,button:focus-visible,a:focus-visible,.card:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;flex:1 1 auto}
+.chip{border:1px solid transparent;border-radius:999px;padding:3px 10px 3px 8px;font:500 12px/1.6 Inter,sans-serif;cursor:pointer;display:inline-flex;gap:6px;align-items:center;transition:opacity .15s,filter .15s}
+.chip .n{font-variant-numeric:tabular-nums;opacity:.75}
+.chip .dot{width:7px;height:7px;border-radius:50%;background:currentColor}
+.chip.off{opacity:.38;filter:saturate(.3)}
+.search{flex:0 1 190px;min-width:140px}
+
+.t-violet{color:var(--violet);background:var(--violet-bg)} .t-teal{color:var(--teal);background:var(--teal-bg)}
+.t-amber{color:var(--amber);background:var(--amber-bg)}    .t-blue{color:var(--blue);background:var(--blue-bg)}
+.t-rose{color:var(--rose);background:var(--rose-bg)}
+
+main{margin-top:14px;display:flex;flex-direction:column;gap:8px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px 12px 16px;position:relative;cursor:default;transition:box-shadow .2s,border-color .2s}
+.card:hover,.card.open{box-shadow:var(--shadow);border-color:color-mix(in srgb,var(--line) 50%,var(--ink-3))}
+.card.pinned{border-color:var(--accent)}
+.bar{position:absolute;left:0;top:10px;bottom:10px;width:3px;border-radius:0 3px 3px 0;display:flex;flex-direction:column;overflow:hidden}
+.bar i{flex:1;background:currentColor}
+.flags{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:5px}
+.flag{font:600 10.5px/1 Inter,sans-serif;letter-spacing:.02em;text-transform:uppercase;padding:4px 7px;border-radius:5px}
+.kind{font:500 10.5px/1 Inter,sans-serif;padding:4px 7px;border-radius:5px;background:var(--surface-2);color:var(--ink-2)}
+.kind.hi{background:var(--ink);color:var(--surface)}
+.title{font:600 15.5px/1.35 "Source Serif 4",Georgia,serif;margin:0 0 4px;color:var(--ink)}
+.title a{color:inherit;text-decoration:none}
+.title a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.authors{color:var(--ink-2);font-size:12.5px}
+.meta{color:var(--ink-3);font-size:12px;margin-top:2px}
+.meta b{font-weight:500;color:var(--ink-2);font-style:italic}
+
+.more{display:grid;grid-template-rows:0fr;transition:grid-template-rows .22s ease}
+.card.open .more{grid-template-rows:1fr}
+.more>div{overflow:hidden}
+.inner{padding-top:10px;margin-top:10px;border-top:1px dashed var(--line)}
+.lbl{font:600 10.5px/1 Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin-bottom:5px}
+.bottom{font-size:13.5px;line-height:1.55;margin:0 0 10px}
+.abstract{font-size:12.5px;color:var(--ink-2);max-height:260px;overflow:auto;padding-right:6px;margin-bottom:10px}
+.abstract p{margin:0 0 6px}.abstract strong{color:var(--ink);font-weight:600}
+details summary{cursor:pointer;font-size:12px;color:var(--ink-2);margin-bottom:6px}
+.links{display:flex;gap:8px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:5px;font:500 12.5px/1 Inter,sans-serif;padding:7px 11px;border-radius:7px;text-decoration:none;border:1px solid var(--line);color:var(--ink);background:var(--surface)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+:root[data-theme="dark"] .btn.primary{color:#1b0f11}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .btn.primary{color:#1b0f11}}
+.btn:hover{filter:brightness(1.06)}
+.hint{color:var(--ink-3);font-size:11.5px;margin-top:8px}
+
+.empty{text-align:center;color:var(--ink-2);padding:48px 12px}
+.warn{margin-top:26px;font-size:12px;color:var(--ink-3)}
+.warn ul{margin:6px 0 0;padding-left:18px}
+footer{margin-top:26px;font-size:11.5px;color:var(--ink-3);text-align:center}
+footer a{color:inherit}
+@media (prefers-reduced-motion: reduce){.more,.card,.chip{transition:none}}
+@media (max-width:480px){.search{flex:1 1 100%}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="top">
+      <div>
+        <h1>Literature digest<span>.</span></h1>
+        <div class="sub" id="sub">Loading…</div>
+      </div>
+      <select id="week" aria-label="Choose digest week"></select>
+    </div>
+    <div class="controls">
+      <div class="chips" id="chips" role="group" aria-label="Filter by topic"></div>
+      <input class="search" id="q" type="search" placeholder="Filter titles, authors…" aria-label="Filter articles">
+    </div>
+  </header>
+  <main id="list" aria-live="polite"></main>
+  <div class="warn" id="warn" hidden></div>
+  <footer>Hover an article for its summary · click to keep it open · Source: PubMed (NCBI)</footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const HIGH = new Set(["RCT","Meta-Analysis","Systematic Review","Guideline"]);
+let digest = null, active = new Set(), query = "";
+
+function fmtDate(iso, opts = {day:"numeric", month:"short", year:"numeric"}) {
+  if (!iso) return "";
+  const p = iso.split("-").map(Number);
+  if (p.length === 1) return iso;
+  const d = new Date(Date.UTC(p[0], p[1]-1, p[2] || 1));
+  return d.toLocaleDateString("en-AU", p[2] ? {...opts, timeZone:"UTC"} : {month:"short", year:"numeric", timeZone:"UTC"});
+}
+function authorLine(a) {
+  if (!a.length) return "";
+  if (a.length <= 4) return a.join(", ");
+  return `${a.slice(0,3).join(", ")}, … ${a[a.length-1]}`;
+}
+function bottomLine(x) {
+  if (x.ai_summary) return {label:"Summary", text:x.ai_summary};
+  if (x.conclusion) return {label:"Conclusion", text:x.conclusion};
+  const t = (x.abstract || []).map(s => s.text).join(" ");
+  if (t) return {label:"Abstract", text: t.length > 420 ? t.slice(0, t.lastIndexOf(" ", 420)) + " …" : t};
+  return {label:"Summary", text:"No abstract in PubMed — open the full text for details."};
+}
+
+async function getJSON(url) {
+  const r = await fetch(url + (url.includes("?") ? "&" : "?") + "v=" + Date.now());
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+async function init() {
+  const params = new URLSearchParams(location.search);
+  let weeks = [];
+  try { weeks = await getJSON("data/index.json"); } catch {}
+  const sel = $("#week");
+  sel.innerHTML = weeks.length
+    ? weeks.map((w,i) => `<option value="${w}">${i ? "Week to " + fmtDate(w) : "Latest — " + fmtDate(w)}</option>`).join("")
+    : `<option>Latest</option>`;
+  const wanted = params.get("week");
+  if (wanted && weeks.includes(wanted)) sel.value = wanted;
+  sel.onchange = () => load(sel.value === weeks[0] ? null : sel.value);
+  await load(wanted && weeks.includes(wanted) && wanted !== weeks[0] ? wanted : null);
+}
+
+async function load(week) {
+  try {
+    digest = await getJSON(week ? `data/archive/${week}.json` : "data/latest.json");
+  } catch {
+    $("#sub").textContent = "No digest yet — the first weekly run hasn't completed.";
+    $("#list").innerHTML = `<div class="empty">Run the “Weekly digest” workflow on GitHub (Actions tab → Run workflow) to generate the first digest.</div>`;
+    return;
+  }
+  active = new Set(digest.topics.map(t => t.id));
+  const n = digest.articles.length;
+  $("#sub").textContent = `${fmtDate(digest.window.from)} – ${fmtDate(digest.window.to)} · ${n} article${n === 1 ? "" : "s"} · ${digest.journal_count} journals searched`;
+  renderChips(); render(); renderWarnings();
+}
+
+function renderChips() {
+  const counts = Object.fromEntries(digest.topics.map(t => [t.id, 0]));
+  digest.articles.forEach(a => a.topics.forEach(t => counts[t]++));
+  $("#chips").innerHTML = digest.topics.map(t =>
+    `<button class="chip t-${t.colour}${active.has(t.id) ? "" : " off"}" data-id="${t.id}" aria-pressed="${active.has(t.id)}">
+       <span class="dot"></span>${esc(t.label)}<span class="n">${counts[t.id]}</span></button>`).join("");
+  $("#chips").querySelectorAll(".chip").forEach(b => b.onclick = e => {
+    const id = b.dataset.id;
+    // Alt/Option-click isolates a single topic; plain click toggles it.
+    if (e.altKey) active = new Set([id]);
+    else active.has(id) ? active.delete(id) : active.add(id);
+    if (!active.size) active = new Set(digest.topics.map(t => t.id));
+    renderChips(); render();
+  });
+}
+
+function render() {
+  const topic = Object.fromEntries(digest.topics.map(t => [t.id, t]));
+  const q = query.toLowerCase();
+  const rows = digest.articles.filter(a =>
+    a.topics.some(t => active.has(t)) &&
+    (!q || (a.title + " " + a.authors.join(" ") + " " + a.journal + " " + a.journal_abbrev).toLowerCase().includes(q)));
+  if (!rows.length) { $("#list").innerHTML = `<div class="empty">No articles match.</div>`; return; }
+
+  $("#list").innerHTML = rows.map((a, i) => {
+    const bl = bottomLine(a);
+    const abs = (a.abstract || []).map(s => `<p>${s.label ? `<strong>${esc(s.label)}.</strong> ` : ""}${esc(s.text)}</p>`).join("");
+    const bars = a.topics.map(t => `<i style="color:var(--${topic[t].colour})"></i>`).join("");
+    return `
+    <article class="card" tabindex="0" data-i="${i}" aria-expanded="false">
+      <div class="bar">${bars}</div>
+      <div class="flags">
+        ${a.topics.map(t => `<span class="flag t-${topic[t].colour}">${esc(topic[t].label)}</span>`).join("")}
+        ${a.kind ? `<span class="kind${HIGH.has(a.kind) ? " hi" : ""}">${esc(a.kind)}</span>` : ""}
+      </div>
+      <h2 class="title"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h2>
+      <div class="authors">${esc(authorLine(a.authors))}</div>
+      <div class="meta"><b>${esc(a.journal_abbrev || a.journal)}</b> · ${esc(fmtDate(a.date))}${a.doi ? "" : " · no DOI"}</div>
+      <div class="more"><div><div class="inner">
+        <div class="lbl">${bl.label}</div>
+        <p class="bottom">${esc(bl.text)}</p>
+        ${abs && !(bl.label === "Abstract" && !bl.text.endsWith("…")) ?`<details><summary>Full abstract</summary><div class="abstract">${abs}</div></details>` : ""}
+        <div class="links">
+          <a class="btn primary" href="${esc(a.url)}" target="_blank" rel="noopener">${a.doi ? "Full text ↗" : "Open ↗"}</a>
+          <a class="btn" href="${esc(a.pubmed_url)}" target="_blank" rel="noopener">PubMed</a>
+          ${a.pmc ? `<a class="btn" href="https://pmc.ncbi.nlm.nih.gov/articles/${esc(a.pmc)}/" target="_blank" rel="noopener">Free PMC copy</a>` : ""}
+        </div>
+      </div></div></div>
+    </article>`;
+  }).join("");
+  wireCards();
+}
+
+function wireCards() {
+  const canHover = matchMedia("(hover: hover)").matches;
+  document.querySelectorAll(".card").forEach(c => {
+    let t;
+    const open = v => { c.classList.toggle("open", v); c.setAttribute("aria-expanded", v); };
+    if (canHover) {
+      c.addEventListener("mouseenter", () => { t = setTimeout(() => open(true), 160); });
+      c.addEventListener("mouseleave", () => { clearTimeout(t); if (!c.classList.contains("pinned")) open(false); });
+    }
+    c.addEventListener("click", e => {
+      if (e.target.closest("a, summary, details")) return;
+      const pin = !c.classList.contains("pinned");
+      c.classList.toggle("pinned", pin); open(pin || (canHover && c.matches(":hover")));
+    });
+    c.addEventListener("keydown", e => {
+      if (e.target === c && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); c.click(); }
+    });
+  });
+}
+
+function renderWarnings() {
+  const w = $("#warn");
+  if (!digest.warnings?.length) { w.hidden = true; return; }
+  w.hidden = false;
+  w.innerHTML = `<details><summary>Journal warnings (${digest.warnings.length})</summary><ul>${digest.warnings.map(x => `<li>${esc(x)}</li>`).join("")}</ul></details>`;
+}
+
+$("#q").addEventListener("input", e => { query = e.target.value.trim(); render(); });
+init();
+</script>
+</body>
+</html>
