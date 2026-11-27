@@ -1,0 +1,3872 @@
+{
+ "generated": "2026-11-27T08:45:10+00:00",
+ "window": {
+  "from": "2026-11-19",
+  "to": "2026-11-27"
+ },
+ "topics": [
+  {
+   "id": "ph",
+   "label": "Pulmonary hypertension",
+   "colour": "violet"
+  },
+  {
+   "id": "hfpef",
+   "label": "HFpEF",
+   "colour": "teal"
+  },
+  {
+   "id": "tr",
+   "label": "Tricuspid regurgitation",
+   "colour": "amber"
+  },
+  {
+   "id": "haemo",
+   "label": "Invasive haemodynamics",
+   "colour": "blue"
+  },
+  {
+   "id": "advhf",
+   "label": "Advanced heart failure",
+   "colour": "rose"
+  }
+ ],
+ "journal_count": 67,
+ "articles": [
+  {
+   "pmid": "43075806",
+   "title": "Pulmonary hypertension, pulmonary vascular disease, and right ventricular adaptation in transcatheter tricuspid valve intervention",
+   "authors": [
+    "Rommel KP",
+    "Tello K",
+    "Rosenkranz S",
+    "Stolz L",
+    "Ludwig S",
+    "Fortmeier V",
+    "Schöber AR",
+    "von Stein J",
+    "Kassar M",
+    "Gerçek M",
+    "Stocker TJ",
+    "Körber MI",
+    "Kister T",
+    "Kalbacher D",
+    "Pfister R",
+    "Baldus S",
+    "Windecker S",
+    "Thiele H",
+    "Praz F",
+    "Rudolph V",
+    "Hausleiter J",
+    "Lurz P",
+    "Kresoja KP"
+   ],
+   "journal": "European journal of heart failure",
+   "journal_abbrev": "Eur J Heart Fail",
+   "ta": "Eur J Heart Fail",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Severe tricuspid regurgitation (TR) commonly coexists with pulmonary hypertension (PH), which is associated with adverse outcomes after transcatheter tricuspid valve intervention (TTVI). However, the prognostic impact of PH subtypes and pulmonary vascular resistance (PVR) thresholds in this setting remains insufficiently defined. We evaluated guideline-based PH classifications and their association with outcomes in a large real-world TTVI cohort."
+    },
+    {
+     "label": "METHODS",
+     "text": "In an international multicenter registry, 903 patients with severe TR undergoing TTVI underwent pre-procedural right heart catheterization and were followed for up to two years. PH was defined as mean pulmonary artery pressure >20 mmHg, and PVR was stratified according to guideline thresholds. Endpoints included procedural success, New York Heart Association (NYHA) functional class, and all-cause mortality."
+    },
+    {
+     "label": "RESULTS",
+     "text": "PH was present in 88% of patients; among patients with PH, median PVR was 2.7 WU. A pre-capillary component (PVR >2 WU) was observed in 68%, including 13% with PVR >5 WU. Procedural success was 81%. NYHA functional class improved significantly from baseline to follow-up irrespective of PH status or PVR. Mortality increased with PH and higher PVR. A PVR threshold of >2 WU alone did not discriminate survival, whereas PVR >5 WU identified a high-risk phenotype. An integrated classification combining PH status, PVR >5 WU, and RV-PA uncoupling (TAPSE/PASP <0.30 mm/mmHg) provided effective prognostic stratification."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "High procedural success and symptomatic improvement were observed following TTVI across PH subgroups. Although infrequent among TTVI patients, a PVR >5 WU identifies a high-risk phenotype with increased mortality. Comprehensive hemodynamic profiling improves risk stratification and may support patient counselling and informed decision-making."
+    }
+   ],
+   "conclusion": "High procedural success and symptomatic improvement were observed following TTVI across PH subgroups. Although infrequent among TTVI patients, a PVR >5 WU identifies a high-risk phenotype with increased mortality. Comprehensive hemodynamic profiling improves risk stratification and may support patient counselling and informed decision-making.",
+   "doi": "10.1093/ejhf/xuag347",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43075806/",
+   "url": "https://doi.org/10.1093/ejhf/xuag347",
+   "topics": [
+    "ph",
+    "tr",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43095430",
+   "title": "Artesunate Ameliorates Hypoxia-Induced Pulmonary Arterial Hypertension in Rats",
+   "authors": [
+    "Deng H",
+    "Zhang J",
+    "Aili A",
+    "Zhang H",
+    "Xue X",
+    "Pan L"
+   ],
+   "journal": "Pulmonary circulation",
+   "journal_abbrev": "Pulm Circ",
+   "ta": "Pulm Circ",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Artesunate (Art) is a semi-synthetic derivative of artemisinin derived from traditional Chinese medicine, characterized by a unique endoperoxide bridge structure and exhibiting broad pharmacological activities with diverse mechanisms. In recent years, studies have demonstrated its beneficial effects in anti-inflammation, anti-oxidative stress, anti-fibrosis, and anti-tumorigenesis. However, the effects of artesunate on hypoxic pulmonary hypertension (HPH) and its underlying mechanisms remain unclear. This study aimed to explore the therapeutic effects of artesunate in a rat model of HPH and its possible mechanisms of action. Six-to eight-week-old SD rats were randomly assigned to five groups: a control group, a 28-day hypoxia model group, and three groups exposed to 28 days of hypoxia and treated with low, medium, or high doses of artesunate, respectively. Pulmonary artery pressure was assessed by echocardiography and right heart catheterization. Immunohistochemistry and Western blotting were used to detect the protein expression levels of M1/M2 macrophage markers, p-AMPK, and ACE2 in lung tissues. Compared with the model group, artesunate-treated groups exhibited a significant dose-dependent improvement in pulmonary hypertension. The model group demonstrated increased M1 macrophage infiltration and reduced expression of p-AMPK and ACE2 in lung tissues. Artesunate attenuates hypoxic pulmonary hypertension in rats, which may be associated with reduced M1 macrophage infiltration and restored expression of p-AMPK and ACE2."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1002/pul2.70460",
+   "pmc": "PMC13805471",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095430/",
+   "url": "https://doi.org/10.1002/pul2.70460",
+   "topics": [
+    "ph",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "Respiratory / pulmonary vascular"
+  },
+  {
+   "pmid": "43085573",
+   "title": "DHEA-S in Pulmonary Hypertension: Insights from PVDOMICS",
+   "authors": [
+    "Garry JD",
+    "Chacon-Barahona J",
+    "Chung SJ",
+    "Frantz R",
+    "Rischard F",
+    "Hassoun P",
+    "Mathai S",
+    "Simpson C",
+    "Beck G",
+    "Hill N",
+    "Leopold J",
+    "Rosenzweig EB",
+    "Mukherjee M",
+    "Tang WHW",
+    "Farha S",
+    "Grunig G",
+    "Kwon D",
+    "Erzurum S",
+    "Jellis C",
+    "Austin ED",
+    "Ventetuolo CE",
+    "Horn E",
+    "Hemnes AR",
+    "Brittain EL",
+    "PVDOMICS Study Group"
+   ],
+   "journal": "Chest",
+   "journal_abbrev": "Chest",
+   "ta": "Chest",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Dehydroepiandrosterone sulfate (DHEA-S) associates with disease severity in pulmonary hypertension (PH). However, prior studies focused on Group 1 disease; it is unknown whether DHEA-S associates with PH severity in other etiologies. It also remains unclear if DHEA-S associations with PH severity differ by sex or menopausal status."
+    },
+    {
+     "label": "RESEARCH QUESTION",
+     "text": "Do associations between DHEA-S and measures of PH severity differ by PH etiology, sex, or menopausal status?"
+    },
+    {
+     "label": "STUDY DESIGN AND METHODS",
+     "text": "We analyzed data from PVDOMICS, including 85 healthy controls and 710 participants with PH. Venous plasma DHEA-S levels were measured by ultraperformance liquid chromatography mass spectrometry. Multivariable regression models were used to examine associations between DHEA-S levels and invasive hemodynamics, right ventricular (RV) systolic function, and six-minute walk distance (6MWD). Analyses were stratified by sex and WSPH group, with exploratory stratification by menopausal status among subjects with Group 1 PH."
+    },
+    {
+     "label": "RESULTS",
+     "text": "DHEA-S levels were lower in all WSPH Groups compared with controls (adjusted p<0.01 for all). Associations between DHEA-S levels and PH severity metrics appeared most prominent in females with Group 1 PH. A doubling of DHEA-S was associated with a 2.8 mmHg (95% CI 1.6-4.1) lower mean pulmonary artery pressure, 3.2% (95% CI 2.0-4.4%) higher RV ejection fraction, and 22m (95% CI 11-33) farther 6MWD (all p<0.01). Higher DHEA-S associated with better RV function, but not pulmonary hemodynamics or 6MWD in females with Group 2 PH and males with Group 3 PH. In Group 1 PH, associations between DHEA-S and measures of PH severity appeared stronger in post-menopausal compared with premenopausal females."
+    },
+    {
+     "label": "INTERPRETATION",
+     "text": "Lower DHEA-S is a consistent feature across PH etiologies, but its association with disease severity appeared most pronounced in females with Group 1 PH. Modulation of DHEA-S levels or the pathways governing its regulation may represent a therapeutic target in PH, warranting further mechanistic study."
+    }
+   ],
+   "conclusion": "Lower DHEA-S is a consistent feature across PH etiologies, but its association with disease severity appeared most pronounced in females with Group 1 PH. Modulation of DHEA-S levels or the pathways governing its regulation may represent a therapeutic target in PH, warranting further mechanistic study.",
+   "doi": "10.1016/j.chest.2026.10.050",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43085573/",
+   "url": "https://doi.org/10.1016/j.chest.2026.10.050",
+   "topics": [
+    "ph",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "Respiratory / pulmonary vascular"
+  },
+  {
+   "pmid": "43096979",
+   "title": "Ruptured Tricuspid Hydatid Cyst Causing Nonthrombotic Pulmonary Embolism and Right Ventricular Failure Requiring VA-ECMO",
+   "authors": [
+    "Sharma M",
+    "Tawayha M",
+    "Kieu NT",
+    "Kothari J",
+    "Ubaid M",
+    "Ali A",
+    "Chaudhary NA",
+    "Haseeb S",
+    "Mosleh W",
+    "Mirza J"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Cardiac echinococcosis is rare, and tricuspid valve involvement is exceptionally uncommon. Ruptured right-sided cysts can mimic acute pulmonary embolism, delaying diagnosis."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 20-year-old Yemeni man presented with acute dyspnea, fever, and collapse. Imaging demonstrated bilateral pulmonary artery filling defects with right ventricular strain and a large mobile tricuspid valve mass. Refractory hypoxemia and obstructive shock developed despite maximal medical therapy, prompting venoarterial extracorporeal membrane oxygenation. Transesophageal echocardiography identified a heterogeneous cystic lesion and a patent foramen ovale with right-to-left shunting. Emergent surgery revealed a ruptured tricuspid leaflet hydatid cyst; histopathology and serology confirmed Echinococcus."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Not all pulmonary artery filling defects are thrombotic. This case demonstrates nonthrombotic pulmonary embolism from ruptured cardiac hydatid cyst and the role of venoarterial extracorporeal membrane oxygenation as a bridge to diagnosis and surgical management in acute right ventricular failure from obstructive intracardiac pathology."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111514",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096979/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111514",
+   "topics": [
+    "tr",
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096974",
+   "title": "Staged Tricuspid Valve-in-Valve Replacement in Atrial Switch With Ventricular Dysfunction, Limited Vascular Access, and Tachyarrhythmia",
+   "authors": [
+    "Castellano C",
+    "Small A",
+    "Argilla M",
+    "Morrison JF",
+    "Cecchin F",
+    "Garg K",
+    "Chan JC",
+    "Saharan S"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Patients with dextro-transposition of the great arteries and atrial switch frequently experience baffle stenosis/leak, arrhythmias, systemic ventricular dysfunction, and tricuspid dysfunction."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 40-year-old man with dextro-transposition of the great arteries and atrial switch underwent surgical tricuspid valve replacement at age 24. He presented with worsening exertional dyspnea, narrow complex tachycardia, ventricular dysfunction, and severe tricuspid valve regurgitation/stenosis. The patient had atresia of the left femoral vein and superior vena cava baffle, with severe right common iliac vein stenosis. He underwent staged procedures including right iliac vein angioplasty, ablation, and transcatheter tricuspid valve replacement via superior vena cava baffle puncture."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "This case highlights the feasibility of transcatheter tricuspid valve replacement through careful procedural planning and staged management."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "Transcatheter interventions are feasible in high-risk patients with congenital anatomy, limited vascular access, poor hemodynamic reserve, and high reoperation risk, with a staged systematic approach to minimize risk and advanced planning for emergency mechanical circulatory support."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111240",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096974/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111240",
+   "topics": [
+    "tr",
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43094190",
+   "title": "Right Ventricular Pulsus Alternans: A Hemodynamic Harbinger of Right Heart Failure",
+   "authors": [
+    "Frick WH",
+    "Mikhalkova D"
+   ],
+   "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions",
+   "journal_abbrev": "Catheter Cardiovasc Interv",
+   "ta": "Catheter Cardiovasc Interv",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Right ventricular (RV) pulsus alternans is a rare hemodynamic finding in patients with advanced heart failure. While pulsus alternans is classically associated with left ventricular failure, its appearance in the right ventricle carries distinct prognostic and management implications. We present the case of a 66-year-old patient with end-stage heart failure who exhibited RV pulsus alternans during right heart catheterization. This finding served as a harbinger of clinical deterioration and suggested a poor prognosis for isolated left ventricular mechanical circulatory support. Recognition of this sign is vital for clinicians to guide appropriate decision-making regarding advanced mechanical circulatory support and transplantation."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1002/ccd.71068",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094190/",
+   "url": "https://doi.org/10.1002/ccd.71068",
+   "topics": [
+    "haemo",
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "Other cardiology & physiology"
+  },
+  {
+   "pmid": "43080874",
+   "title": "Multidisciplinary Rescue Management of Life-Threatening Pulmonary Arterial Hypertension Using Off-Label Sotatercept for Pre-Delivery Hemodynamic Optimization: A Case Report",
+   "authors": [
+    "Shiraishi Y",
+    "Tano S",
+    "Adachi S",
+    "Fuma K",
+    "Matsuo S",
+    "Tomooka K",
+    "Nakano Y",
+    "Sugiyama T",
+    "Aoki-Kamiya C",
+    "Kajiyama H",
+    "Ushida T"
+   ],
+   "journal": "Pulmonary circulation",
+   "journal_abbrev": "Pulm Circ",
+   "ta": "Pulm Circ",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Pregnancy in women with pulmonary arterial hypertension (PAH) carries substantial maternal and fetal risks, particularly with severe or poorly controlled disease. This case report describes a 24-year-old woman with severe PAH (mean pulmonary arterial pressure [mPAP], 71 mmHg) diagnosed at 22 weeks of gestation after presenting with hemoptysis. Despite combination therapy with macitentan, sildenafil, intravenous epoprostenol, and inhaled treprostinil, pulmonary arterial pressure remained markedly elevated, and epoprostenol up-titration was limited by thrombocytopenia (platelet count, 79 × 109/L). As continued pregnancy posed an imminent threat to maternal life, early delivery was planned; however, the perioperative hemodynamic risk remained extremely high. Subcutaneous sotatercept (0.3 mg/kg) was administered off-label at 23 weeks and 6 days of gestation to optimize hemodynamics before delivery. One day later, mPAP decreased from 71 to 60 mmHg, whereas pulmonary vascular resistance decreased from 17.7 to 9.14 Wood units. Cesarean delivery under general anesthesia was performed at 24 weeks and 1 day of gestation with therapeutic phlebotomy and reinfusion, invasive hemodynamic monitoring, vasoactive support, inhaled nitric oxide, and extracorporeal membrane oxygenation standby. Both the mother and infant survived. Maternal genetic testing identified a pathogenic BMPR2 variant. Recent case reports suggest that sotatercept may rapidly improve hemodynamics in PAH. However, as multiple therapies were administered concurrently, its contribution to the observed improvement could not be determined, and its safety during pregnancy remains unknown. This case report highlights the potential role of individualized pre-delivery hemodynamic optimization in multidisciplinary management of exceptionally severe PAH during pregnancy."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1002/pul2.70465",
+   "pmc": "PMC13793858",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43080874/",
+   "url": "https://doi.org/10.1002/pul2.70465",
+   "topics": [
+    "ph",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "Respiratory / pulmonary vascular"
+  },
+  {
+   "pmid": "43080824",
+   "title": "Pulmonary Hypertension as a Risk Factor for Stroke: Veteran Affairs Right Heart Catheterization Cohort Study",
+   "authors": [
+    "Kiris A",
+    "Borgia M",
+    "Jankowich M",
+    "Wu WC",
+    "Choudhary G"
+   ],
+   "journal": "Pulmonary circulation",
+   "journal_abbrev": "Pulm Circ",
+   "ta": "Pulm Circ",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "The contribution of pulmonary hypertension (PH) to stroke risk remains incompletely understood, particularly across hemodynamic subgroups. We aimed to evaluate the association between hemodynamically confirmed PH and incident stroke, with emphasis on PH subgroups. In this retrospective cohort study, patients undergoing right heart catheterization were included and classified as precapillary, postcapillary, combined, and other based on right heart catheterization findings. The main outcome was the incidence of stroke. Multivariable Cox proportional hazard models were also used to assess the relationship between PH and stroke. Among 7106 patients, 75.5% had PH (24.2% precapillary, 29.4% isolated postcapillary, 33.8% combined, and 12.5% other). Over 22,528 person-years of follow-up, stroke incidence was higher in patients with PH compared with those without PH (3.98 vs. 2.51 per 100 person-years, p < 0.001). Stroke incidence was highest in combined PH (5.13 per 100 person-years), followed by postcapillary (4.27) and precapillary PH (3.41; p < 0.01 across groups). In the multivariable model, PH and its subgroups were not independently associated with stroke after adjustment for demographic and cardiovascular covariates. In conclusion, PH is not an independent determinant of stroke; however, patients with PH have a significantly higher stroke incidence, particularly those with postcapillary PH. Therefore, patients with PH represent a clinically vulnerable group in whom careful assessment of traditional risk factors and use of aggressive primary prevention for stroke may be important."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1002/pul2.70463",
+   "pmc": "PMC13793859",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43080824/",
+   "url": "https://doi.org/10.1002/pul2.70463",
+   "topics": [
+    "ph",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "Respiratory / pulmonary vascular"
+  },
+  {
+   "pmid": "43076811",
+   "title": "Wearable Tissue Oximetry in Cardiogenic Shock: Microcirculatory Deterioration Preceding Macrohemodynamic Collapse",
+   "authors": [
+    "Roumengous T",
+    "Chauntry AJ",
+    "Baran DA"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Cardiogenic shock can progress rapidly, even when conventional macrohemodynamic vital signs remain stable. Continuous, noninvasive microcirculatory monitoring is uncommon but could provide early signals of impending decompensation."
+    },
+    {
+     "label": "FIH/EARLY REPORTS SUMMARY",
+     "text": "The authors report near-infrared spectroscopy and photoplethysmography monitoring with the investigational NIRSense Envello Core wearable device. The patient was a 66-year-old man with complex valvular disease and combined pre/post capillary pulmonary hypertension, who rapidly deteriorated and died despite intensive care unit management."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Chest-derived tissue oxygen saturation and perfusion index appeared to signal deterioration ∼4 hours before clinically recognized collapse, and correlated strongly with central venous pressure (r = -0.95; perfusion index) and systolic pulmonary artery pressure (r = 0.87; tissue oxygen saturation)."
+    },
+    {
+     "label": "NOVELTY",
+     "text": "To our knowledge, this is the first continuous microcirculatory characterization of the transition to terminal cardiogenic shock using a wearable near-infrared spectroscopy and photoplethysmography device."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "Noninvasive microcirculatory monitoring may detect hemodynamic collapse before conventional vital signs, identifying a potential window for earlier intervention."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111404",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43076811/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111404",
+   "topics": [
+    "ph",
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43071796",
+   "title": "Right Ventricular Reverse Remodeling Without Pulmonary Vascular Unloading During Sotatercept Therapy: An Invasive Pressure-Volume Loop Study",
+   "authors": [
+    "Kremer N",
+    "Lemay SE",
+    "Valasarajan C",
+    "Thal BR",
+    "Harth S",
+    "Rako ZA",
+    "Janetzko P",
+    "Yogeswaran A",
+    "Wang S",
+    "Olapoju SO",
+    "Sanda M",
+    "Mamazhakypov A",
+    "Vanderpool RR",
+    "Gattenlöhner S",
+    "Rosenkranz S",
+    "Ballmann F",
+    "Rischard FP",
+    "Waxman AB",
+    "Kojonazarov B",
+    "Schermuly RT",
+    "Potus F",
+    "Provencher S",
+    "Seeger W",
+    "Ghofrani HA",
+    "Pullamsetti SS",
+    "Bonnet S",
+    "Tello K"
+   ],
+   "journal": "Circulation",
+   "journal_abbrev": "Circulation",
+   "ta": "Circulation",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Sotatercept improves hemodynamics and functional capacity in pulmonary arterial hypertension; however, its direct actions on the right ventricle (RV) remain poorly understood. We investigated whether sotatercept exerts intrinsic RV protective effects beyond pulmonary vascular unloading."
+    },
+    {
+     "label": "METHODS",
+     "text": "In this registry-based cohort study, 28 consecutive patients with pulmonary arterial hypertension between April 2024 and September 2025 underwent right-heart catheterization with conductance-catheter RV pressure-volume analysis and cardiac magnetic resonance imaging before sotatercept initiation and again after a median of 6.1 months of treatment. Hemodynamic nonresponse was defined as a decrease in mean pulmonary arterial pressure by <10%. Reproducibility was tested in 2 independent sotatercept-treated cohorts (SPECTRA [Sotatercept Phase 2 Exploratory Clinical Trial in Pulmonary Arterial Hypertension], n=20, cardiac magnetic resonance; Cologne, n=20, echocardiography)."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Among 28 patients (17 [61%] female; median age, 48 [IQR, 34-67] years), 21 (75%) were responders and 7 (25%) nonresponders. In responders, sotatercept significantly decreased mean pulmonary arterial pressure (52.0 [IQR, 49.0-65.0] to 39.0 [IQR, 32.0-42.0] mm Hg; P<0.001) and pulmonary vascular resistance (10.7±3.9 to 6.7±2.3 Wood units; P<0.001) without changing cardiac output, reduced RV end-diastolic volume (222 [IQR, 183-242] to 160 [IQR, 129-204] mL; P<0.001) and RV mass (42.8 [IQR, 33.6-56.0] to 33.1 [IQR, 28.2-44.4] g; P<0.001), and improved 6-minute walk distance by +64 m (95% CI, 27 to 102; P=0.002). Ventricular-arterial coupling (end-systolic/arterial elastance) improved although load-independent contractility decreased alongside the decrease in effective arterial elastance. By contrast, nonresponders demonstrated a clinical-hemodynamic disconnect. Despite persistently elevated RV afterload and unchanged end-systolic/arterial elastance, a significant reduction in RV mass (56.1 [IQR, 45.9-81.0] to 46.4 [IQR, 35.9-59.4] g; P=0.003) was observed, accompanied by a significant decrease in B-type natriuretic peptide levels, whereas 6-minute walk distance did not change significantly (+15 m [95% CI, -12 to 42]; P=0.23); the difference in 6-minute walk distance change between groups did not reach significance (P=0.10). Reduction in RV mass and chamber size was observed in the absence of pulmonary vascular unloading among hemodynamic nonresponders to sotatercept in 2 independent cohorts."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "In primary and validation cohorts, structural RV reverse remodeling after sotatercept initiation occurred independent of pulmonary vascular unloading. This pattern is not fully explained by pulmonary vascular unloading and raises the possibility of an effect of sotatercept on the myocardium itself. Improvement in exercise capacity was observed within the hemodynamic responder group only."
+    }
+   ],
+   "conclusion": "In primary and validation cohorts, structural RV reverse remodeling after sotatercept initiation occurred independent of pulmonary vascular unloading. This pattern is not fully explained by pulmonary vascular unloading and raises the possibility of an effect of sotatercept on the myocardium itself. Improvement in exercise capacity was observed within the hemodynamic responder group only.",
+   "doi": "10.1161/CIRCULATIONAHA.126.080698",
+   "pmc": "PMC13792361",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071796/",
+   "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.080698",
+   "topics": [
+    "ph",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43066666",
+   "title": "Cardiac and Metabolic Effects of Semaglutide in Obesity-Related HFpEF: Rationale and Design of CAMEO-SEMA",
+   "authors": [
+    "Kazui S",
+    "Ghanbari F",
+    "Harada T",
+    "Reddy YNV",
+    "Packer M",
+    "Carter R",
+    "Jensen MD",
+    "Borlaug BA"
+   ],
+   "journal": "JACC. Heart failure",
+   "journal_abbrev": "JACC Heart Fail",
+   "ta": "JACC Heart Fail",
+   "date": "2026-11-09",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Two-thirds of patients with heart failure with preserved ejection fraction (HFpEF) have obesity, and >90% have increased visceral adiposity. Adiposity-associated HFpEF is characterized by hemodynamic congestion driven by impaired cardiac reserve, volume overload and altered blood distribution, adverse cardiac remodeling, pericardial constraint, systemic vascular stiffening, myosteatosis, metabolic dysfunction, and altered adipokine signaling profiles. Recent clinical trials have demonstrated that glucagon-like peptide-1 receptor agonists alleviate symptoms and improve exercise capacity in patients with obesity-related HFpEF, but the mechanisms underlying these benefits remain uncertain."
+    },
+    {
+     "label": "OBJECTIVES",
+     "text": "This study aims to elucidate the mechanisms by which semaglutide improves clinical status in patients with HFpEF and obesity."
+    },
+    {
+     "label": "METHODS",
+     "text": "The CAMEO-SEMA trial is a single-center, prospective, randomized, double-blind, placebo-controlled mechanistic trial evaluating the effects of semaglutide in obesity-related HFpEF."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Eighty-one participants have been randomized in a 2:1 ratio to semaglutide subcutaneously once weekly or matching placebo for 52 weeks. Comprehensive pathophysiological characterization is being performed at baseline and following treatment, including invasive exercise hemodynamic status, transcardiac (arterial and coronary sinus) blood sampling at rest and with exercise, cardiac magnetic resonance imaging, submaximal and peak aerobic capacity through expired gas analysis, comprehensive rest and exercise echocardiography, body composition and visceral adiposity assessment, blood volume analysis, oral glucose testing, subcutaneous adipose tissue biopsy, and inflammatory-adipokine profiling."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "The CAMEO-SEMA trial will provide comprehensive, novel insights into the mechanisms by which the glucagon-like peptide-1 receptor agonists semaglutide affects the key pathophysiological factors causing symptoms, exercise limitation, and morbidity in patients with obesity-related HFpEF. (Cardiac and Metabolic Effects of Semaglutide [CAMEO-SEMA]; NCT05371496)."
+    }
+   ],
+   "conclusion": "The CAMEO-SEMA trial will provide comprehensive, novel insights into the mechanisms by which the glucagon-like peptide-1 receptor agonists semaglutide affects the key pathophysiological factors causing symptoms, exercise limitation, and morbidity in patients with obesity-related HFpEF. (Cardiac and Metabolic Effects of Semaglutide [CAMEO-SEMA]; NCT05371496).",
+   "doi": "10.1016/j.jchf.2026.103500",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43066666/",
+   "url": "https://doi.org/10.1016/j.jchf.2026.103500",
+   "topics": [
+    "hfpef",
+    "haemo"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43059115",
+   "title": "Defining the Right Ventricular Burden in HFpEF: What Seals the Fate of the Right Ventricle?",
+   "authors": [
+    "Sen P",
+    "Merkus D"
+   ],
+   "journal": "American journal of physiology. Heart and circulatory physiology",
+   "journal_abbrev": "Am J Physiol Heart Circ Physiol",
+   "ta": "Am J Physiol Heart Circ Physiol",
+   "date": "2026-11-19",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1152/ajpheart.90214.2026",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43059115/",
+   "url": "https://doi.org/10.1152/ajpheart.90214.2026",
+   "topics": [
+    "ph",
+    "hfpef"
+   ],
+   "kind": "Original research",
+   "family": "Other cardiology & physiology"
+  },
+  {
+   "pmid": "43076474",
+   "title": "Sildenafil for Fetal Growth Restriction - An Individual Participant Meta-Analysis",
+   "authors": [
+    "Groom KM",
+    "Bruins ME",
+    "Liauw J",
+    "Jakobsen JC",
+    "Olsen MH",
+    "Gluud C",
+    "Kariya C",
+    "Mackay LK",
+    "von Dadelszen P",
+    "Sharp A",
+    "Lim K",
+    "Ganzevoort W"
+   ],
+   "journal": "NEJM evidence",
+   "journal_abbrev": "NEJM Evid",
+   "ta": "NEJM Evid",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Phosphodiesterase type-5 inhibitors have been investigated as an in utero therapy for fetal growth restriction (FGR)."
+    },
+    {
+     "label": "METHODS",
+     "text": "We conducted a systematic review and individual participant data meta-analysis of randomized trials of phosphodiesterase type-5 inhibitors versus placebo/no treatment in singleton pregnancies with FGR. The primary outcome was infant survival without serious adverse outcome. Secondary outcomes included gestation at birth and birth weight z score among liveborn infants. Predefined subgroups were evaluated."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Of 19 eligible trials, 4 contributed data. Of 492 participants, 240 had been assigned to placebo and 252 to the phosphodiesterase type-5 inhibitor sildenafil. Infant survival without serious adverse outcome occurred in 110 of 240 participants (45.8%) assigned to placebo versus 113 of 252 participants (44.8%) assigned to sildenafil (relative risk [RR], 0.96; 95% confidence interval [CI], 0.78 to 1.17). No apparent interaction was observed between subgroups. There was no apparent difference in gestation at birth (mean difference -0.5 weeks; 95% CI, -1.3 to 0.2) or birth weight z score (mean difference, 0.0; 95% CI, -0.2 to 0.2). Persistent pulmonary hypertension of the newborn occurred in 10 of 176 participants (5.7%) assigned to placebo versus 27 of 197 participants (13.7%) assigned to sildenafil (RR, 2.39; 95% CI, 1.23 to 4.61); nitric oxide was used in 15 of 176 participants (8.5%) assigned to placebo versus 20 of 197 participants (10.2%) assigned to sildenafil (RR, 1.21; 95% CI, 0.64 to 2.29)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "Maternal sildenafil therapy for FGR was not associated with improved outcomes for infants. It was associated with persistent pulmonary hypertension of the newborn but not with an increase in nitric oxide therapy. (Funded by Health Research Council of New Zealand and others; PROSPERO number, CRD42017069688; ANZCTR number, ACTRN12612000584831; ISRCTN number, ISRCTN39133303; ClinicalTrials.gov numbers, NCT02442492 and NCT02277132.)."
+    }
+   ],
+   "conclusion": "Maternal sildenafil therapy for FGR was not associated with improved outcomes for infants. It was associated with persistent pulmonary hypertension of the newborn but not with an increase in nitric oxide therapy. (Funded by Health Research Council of New Zealand and others; PROSPERO number, CRD42017069688; ANZCTR number, ACTRN12612000584831; ISRCTN number, ISRCTN39133303; ClinicalTrials.gov numbers, NCT02442492 and NCT02277132.).",
+   "doi": "10.1056/EVIDoa2500302",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43076474/",
+   "url": "https://doi.org/10.1056/EVIDoa2500302",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Meta-Analysis",
+   "family": "General medical"
+  },
+  {
+   "pmid": "43072903",
+   "title": "Transcatheter Valve Repair of Tricuspid Regurgitation: 2-Year Outcomes From the TriCLASP Study",
+   "authors": [
+    "Geisler T",
+    "Lapp H",
+    "Schofer N",
+    "Kister T",
+    "Rassaf T",
+    "Hausleiter J",
+    "Friedrichs K",
+    "Frerker C",
+    "Lubos E",
+    "Kessler M",
+    "Spargias K",
+    "Schmitz T",
+    "Nickenig G",
+    "Praz F",
+    "Berti S",
+    "Walther C",
+    "Zdanyte M",
+    "Goebel B",
+    "Kalbacher D",
+    "von Roeder M",
+    "Mahabadi AA",
+    "Weckbach L",
+    "Ivannikova M",
+    "Marquetand C",
+    "Schewel D",
+    "Gröger M",
+    "Chrissoheris M",
+    "Eißmann M",
+    "Vogelhuber J",
+    "Brugger N",
+    "D'Agostino A",
+    "Kroll M",
+    "Mehrkens D",
+    "Ben Ren C",
+    "Baldus S"
+   ],
+   "journal": "JACC. Cardiovascular interventions",
+   "journal_abbrev": "JACC Cardiovasc Interv",
+   "ta": "JACC Cardiovasc Interv",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article",
+    "Multicenter Study"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Tricuspid transcatheter edge-to-edge repair is a viable option for patients with ≥severe tricuspid regurgitation (TR)."
+    },
+    {
+     "label": "OBJECTIVES",
+     "text": "This study aims to evaluate 2-year outcomes with the PASCAL transcatheter valve repair system from the TriCLASP European, single-arm, postmarket clinical follow-up study, including outcomes stratified by baseline TR severity."
+    },
+    {
+     "label": "METHODS",
+     "text": "The TriCLASP study evaluated the safety and effectiveness of tricuspid transcatheter edge-to-edge repair with the PASCAL system. TR reduction and clinical, functional, and quality of life outcomes were assessed at 2 years. Outcomes were also assessed by baseline TR severity (≤moderate vs ≥severe TR)."
+    },
+    {
+     "label": "RESULTS",
+     "text": "In 300 enrolled patients, mean age was 80.1 years, 52.0% were women, and 75.8% had ≥severe TR. Significant and sustained TR reduction was observed from baseline to 2 years, with ≤moderate TR achieved in 81.3% (P < 0.001). The 2-year Kaplan-Meier estimates for survival and freedom from heart failure hospitalization (HFH) were 77.5% ± 2.6% and 71.9% ± 2.8%, respectively, with a 71.4% decrease in annualized HFH rate (P < 0.001). Patients experienced significant improvements in functional capacity and quality of life at 2 years (NYHA functional class I/II: 73.2%; 6-minute walk distance: +26.6 m; Kansas City Cardiomyopathy Questionnaire overall summary score: +7.3 points; all P < 0.001). Outcomes were similar in patients stratified by baseline ≤moderate and ≥severe TR, including significant TR reduction and meaningful clinical, functional, and quality-of-life improvements."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "Outcomes from the TriCLASP study confirm durable safety and effectiveness of the PASCAL system at 2 years in a postmarket setting. Results demonstrated significant and sustained TR reduction, favorable survival, reduced HFH, and clinically meaningful improvements in symptoms, function, and quality of life, which were consistent across patients with moderate and severe TR."
+    }
+   ],
+   "conclusion": "Outcomes from the TriCLASP study confirm durable safety and effectiveness of the PASCAL system at 2 years in a postmarket setting. Results demonstrated significant and sustained TR reduction, favorable survival, reduced HFH, and clinically meaningful improvements in symptoms, function, and quality of life, which were consistent across patients with moderate and severe TR.",
+   "doi": "10.1016/j.jcin.2026.07.054",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072903/",
+   "url": "https://doi.org/10.1016/j.jcin.2026.07.054",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43072673",
+   "title": "Innovations in Temporary Mechanical Circulatory Support in Cardiogenic Shock",
+   "authors": [
+    "Bernhardt AM",
+    "Gage A",
+    "Jumean M",
+    "Kalra S",
+    "Schrage B",
+    "Tayal R",
+    "Panoulas V",
+    "Møller JE",
+    "Schlöglhofer T",
+    "Brailovsky Y",
+    "Burkhoff D",
+    "Kanwar MK"
+   ],
+   "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+   "journal_abbrev": "J Heart Lung Transplant",
+   "ta": "J Heart Lung Transplant",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Temporary mechanical circulatory support (tMCS) can provide rapid hemodynamic stabilization in cardiogenic shock (CS), creating a bridge to myocardial recovery, durable MCS or heart transplantation. Contemporary platforms remain constrained by risk of vascular and hemocompatability-related adverse events, restricted patient mobility and support duration. These limitations have become increasingly relevant as tMCS use expands beyond acute myocardial infarction-related CS to the highly heterogeneous heart failure-related and postcardiotomy shock states. Next generation tMCS technologies seek to address these issues through lower-profile access, improved hemocompatibility, dedicated right- and biventricular support, extended support duration with greater support capabilities, enhanced patient mobility, and integrated physiologic monitoring. This State-of-the-Art Review examines the design rationale, technological maturity, and emerging clinical evidence for these platforms, while highlighting clinical, data-related, engineering and regulatory gaps in the field. Ultimately, the challenge for next-generation tMCS is not simply to deliver greater flow, but to provide appropriate, phenotype-directed circulatory support while minimizing the biological, vascular, and operational costs."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.healun.2026.11.014",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072673/",
+   "url": "https://doi.org/10.1016/j.healun.2026.11.014",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Review",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43068125",
+   "title": "Young adulthood after thoracic organ transplantation: Developmental vulnerability, risk, and protection in recipients aged 18-24 years",
+   "authors": [
+    "Yang C",
+    "Toma M",
+    "Code J",
+    "Bergeron C",
+    "Tebbutt SJ"
+   ],
+   "journal": "JHLT open",
+   "journal_abbrev": "JHLT Open",
+   "ta": "JHLT Open",
+   "date": "2026-10-28",
+   "pub_types": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Thoracic organ transplant recipients aged 18-24 years represent a distinct high-risk group with discordant early and longer-term outcomes. After heart transplantation, early survival is relatively favorable, yet 5-year survival conditional on 1-year survival is lowest in this age group among adult recipients and appears descriptively lower than the pediatric age-group estimates. This vulnerability is often attributed to medication nonadherence and care-transition challenges. Although these factors remain important and modifiable, they may not fully explain the excess risk during late adolescence and emerging adulthood. We propose that the 18-24 year period may be a developmental vulnerability window in which neurocognitive and psychological maturation intersects with pharmacokinetic variability, cardiometabolic changes, and transplant-specific stressors. Ongoing maturation of executive function, emotional regulation, identity formation, and self-management capacity may contribute to variable immunosuppressant exposure, missed surveillance, mental-health burden, and disruptions in care continuity. Recognizing this developmental context may improve risk stratification and inform integrated monitoring strategies that combine adherence support with medication-exposure assessment, psychological care, and structured transition. Age-stratified studies are needed to identify the factors that contribute to poor outcomes in this population and determine whether developmentally tailored care improves long-term survival."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jhlto.2026.100716",
+   "pmc": "PMC13788791",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43068125/",
+   "url": "https://doi.org/10.1016/j.jhlto.2026.100716",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Review",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43097428",
+   "title": "Impact of Cannulation on Venous Congestion, Right Ventricular Function, and End-Organ Protection During VV ECMO: A Computational Study",
+   "authors": [
+    "El Dsouki Y",
+    "Condello I",
+    "Celi S",
+    "Coveliers J",
+    "Meani P",
+    "Rossetti M",
+    "Martucci G",
+    "Lorusso R"
+   ],
+   "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+   "journal_abbrev": "ASAIO J",
+   "ta": "ASAIO J",
+   "date": "2026-11-26",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Cannulation strategy during veno-venous extracorporeal membrane oxygenation (VV-ECMO) may influence venous drainage, right ventricular loading, and end-organ perfusion beyond gas exchange. We compared four cannulation strategies using a computational hemodynamic framework: pulmonary dual-lumen, Avalon dual-lumen, femoro-jugular, and femoro-femoral VV-ECMO, with three cannula sizes/configurations for each strategy and 10 virtual adult patients per configuration (120 simulations). Cannulation strategy was strongly associated with residual venous congestion and simulated organ dysfunction. Pulmonary dual-lumen support showed the most favorable size-dependent profile. The 31 Fr configuration achieved the lowest central venous pressure (8.8 ± 1.2 mm Hg), smallest inferior vena cava diameter (17.6 ± 1.6 mm), and greatest improvement in tricuspid annular plane systolic excursion (+5.4 ± 1.0 mm). It was also associated with the lowest creatinine, bilirubin, simulated dialysis risk, and hepatic dysfunction. Femoro-femoral VV-ECMO showed the least favorable profile despite preserved flow capability. These findings suggest that cannulation geometry may be an important determinant of venous decongestion, right-heart interaction, and simulated cardio-renal-hepatic protection beyond extracorporeal flow alone."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1097/MAT.0000000000002907",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097428/",
+   "url": "https://doi.org/10.1097/MAT.0000000000002907",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43097964",
+   "title": "Forging the Interventional Heart Failure Specialist: A JACC: Advances Expert Panel",
+   "authors": [
+    "Zayed AA",
+    "Miller PE",
+    "Vallabhajosyula S",
+    "Basir MB",
+    "Davila CD",
+    "Jumean M",
+    "Villela MA",
+    "Masoumi A",
+    "Pahuja M",
+    "Esposito ML",
+    "Amor MMI",
+    "Sanayeh EB",
+    "Kanwar MK",
+    "Sinha SS",
+    "Lansky AJ",
+    "Naidu SS",
+    "Burkhoff D",
+    "Kapur NK",
+    "Liu SD"
+   ],
+   "journal": "JACC. Advances",
+   "journal_abbrev": "JACC Adv",
+   "ta": "JACC Adv",
+   "date": "2026-11-26",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Interventional heart failure (IHF) integrates advanced heart failure management with catheter-based procedural expertise to address clinical scenarios that neither interventional cardiology nor advanced heart failure and transplant cardiology can optimally manage alone. Despite growing clinical need, no standardized training pathway, competency framework, or workforce infrastructure exists. This Expert Panel proposes a comprehensive framework comprising: a core-and-track taxonomy defining 5 universal competency clusters and 5 procedural track domains; 13 clinical activities structured using entrustable professional activity methodology as pathway-agnostic training endpoints; multiple training pathways evaluated against shared competency benchmarks; and implementation guidance including a three-phase pilot-to-accreditation strategy, consortium models, hybrid compensation structures, and a minimum viable registry to generate comparative effectiveness evidence. Realization requires multisociety consensus, pilot program data, and collective commitment to building the training and evidence infrastructure needed to advance interventional heart failure toward recognized subspecialty status."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jacadv.2026.103580",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097964/",
+   "url": "https://doi.org/10.1016/j.jacadv.2026.103580",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096978",
+   "title": "Time-Evolving In Situ Coronary Thrombosis During Durable LVAD Support",
+   "authors": [
+    "Han J",
+    "Xia Y",
+    "Jin Z",
+    "Sun L"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-26",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Myocardial infarction during durable left ventricular assist device (LVAD) support is usually attributed to pump thromboembolism or anticoagulation failure; in situ coronary thrombosis arising from local vascular pathology is rarely recognized."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A patient with pre-implant angiography confirming patent coronary arteries developed acute left anterior descending artery occlusion during long-term continuous-flow LVAD support. Intravascular ultrasound showed mural-adherent thrombus at the coronary bifurcation with negative remodeling and intact distal architecture, distinguishing in situ thrombosis from embolic occlusion. Aspiration thrombectomy without stenting restored normal flow."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Nonpulsatile hemodynamics, endothelial dysfunction, and recurrent bacteremia likely converged to produce coronary thrombosis independent of conventional embolic mechanisms, a scenario infrequently described in the LVAD literature and relevant to clinicians evaluating unexplained myocardial infarction in this population."
+    },
+    {
+     "label": "TAKE-HOME MESSAGES",
+     "text": "In situ coronary thrombosis is an underrecognized, mechanistically distinct cause of myocardial infarction during LVAD support. Serial coronary imaging with intravascular ultrasound aids diagnosis and can guide thrombus-directed therapy without unnecessary stenting."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111411",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096978/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111411",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43084245",
+   "title": "Diastolic dysfunction in adults with congenital heart disease",
+   "authors": [
+    "Ratwatte S",
+    "Miranda WR",
+    "Valente AM",
+    "El Sayed M",
+    "Elgamal SM",
+    "Surkova E",
+    "Cattapan I",
+    "Di Salvo G",
+    "Van De Bruaene A",
+    "Gatzoulis MA",
+    "Brida M"
+   ],
+   "journal": "European heart journal",
+   "journal_abbrev": "Eur Heart J",
+   "ta": "Eur Heart J",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Diastolic dysfunction is a major determinant of cardiovascular symptoms, quality of life, and overall prognosis in adults with acquired heart disease. The global burden of disease is increasing, and substantial progress has been made in developing standardized multimodality approaches for the assessment of left ventricular diastolic function. In adults with congenital heart disease (ACHD) diastolic dysfunction is substantially more prevalent than in the general population; however, it remains comparatively under-investigated, under-diagnosed, and under-treated. Assessment is complicated by the marked heterogeneity of this population, including the influence of underlying anatomy, prior surgical interventions, and residual haemodynamic lesions on ventricular filling physiology. Consequently, a 'one-size-fits-all' approach or direct extrapolation of guidelines from acquired heart disease is often inappropriate. This state-of-the-art review summarized the current evidence and contemporary approaches to the assessment and management of diastolic dysfunction in ACHD, highlighting the strengths and limitations of available diagnostic modalities. In addition, lesion-specific considerations and practical diagnostic and management frameworks are proposed to evaluate and treat diastolic dysfunction across the spectrum of ACHD."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1093/eurheartj/ehag879",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43084245/",
+   "url": "https://doi.org/10.1093/eurheartj/ehag879",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43083534",
+   "title": "Right Ventricular Outflow Tract Stenting in a 1.5 kg Premature Infant With Tetralogy of Fallot",
+   "authors": [
+    "Cordrey K",
+    "Van Galder H",
+    "Whiteside W",
+    "Hagel J"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "OBJECTIVE",
+     "text": "This study describes successful transcatheter right ventricular outflow tract (RVOT) stenting in a premature infant with tetralogy of Fallot weighing 1.5 kg as a bridge to definitive repair."
+    },
+    {
+     "label": "KEY STEPS",
+     "text": "Femoral venous access was obtained using a 4-F long sheath. Access to the RVOT was obtained using a 0.035-inch Wholey wire; the sheath provided a method for sighting angiography with protection of the tricuspid valve for stent delivery. Two overlapping drug-eluting stents were deployed to fully cover the valvar and subvalvar obstruction. Following substantial somatic and pulmonary artery growth, complete repair was successfully performed at 5 months and 5.27 kg."
+    },
+    {
+     "label": "POTENTIAL PITFALLS",
+     "text": "Long-sheath positioning across the RVOT may cause hemodynamic instability. Stents should be prepared before sheath advancement, RVOT instrumentation minimized, and operators prepared for expedited deployment. Complete coverage of the dynamic subvalvar obstruction is essential."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "RVOT stenting can provide effective palliation in carefully selected very low birth weight infants, supporting pulmonary artery and somatic growth before definitive repair."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111417",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43083534/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111417",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096739",
+   "title": "Failing Fontan Circulation Bridged to Heart Transplantation With a Surgically Implanted Microaxial Flow Pump",
+   "authors": [
+    "Panholzer B",
+    "Warnecke G",
+    "Uebing A",
+    "Eide AM",
+    "Attmann T"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "An 18-year-old male patient with Fontan circulation was admitted to our institution with progressive cardiac decompensation. Because of his severely impaired systolic function, he had previously been listed for heart transplantation. Following admission, he rapidly developed cardiogenic shock, necessitating cardiopulmonary resuscitation and intubation. After implantation of a microaxial flow pump through the right subclavian artery, hemodynamics and respiration stabilized quickly; notably, the patient was extubated on the first postoperative day. Sixteen days thereafter, heart transplantation was performed successfully. TAKE-HOME MESSAGE: Patients with a failing systemic ventricle in Fontan circulation can be successfully bridged to heart transplant by insertion of a microaxial flow pump."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111360",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096739/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111360",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096735",
+   "title": "Novel Heterozygous NEXN Variant (c.1015del; p.Glu339Lysfs⁎14) Leading to Severe Infantile Dilated Cardiomyopathy Requiring Heart Transplantation",
+   "authors": [
+    "Bertelli M",
+    "Shokravi A",
+    "Kiamanesh O"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Pathogenic NEXN variants are a rare cause of dilated cardiomyopathy. Heterozygous variants have been associated with a wide phenotypic range, including infantile presentations that typically recover, whereas transplant-requiring infantile disease has been reported only with biallelic genotypes or alongside a second cardiomyopathy gene variant."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "We present a 21-year-old male who underwent orthotopic heart transplantation at 6 months of age for severe infantile dilated cardiomyopathy (DCM). Genetic testing identified a novel heterozygous frameshift variant in NEXN (c.1015del; p.Glu339Lysfs⁎14), absent from population databases and classified as pathogenic."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "To our knowledge, this is the first monoallelic NEXN variant reported as the sole candidate genotype in infantile-onset end-stage DCM requiring transplantation. Reported monoallelic disease runs from spontaneous recovery to transplantation, and variant position does not predict severity, so a further factor is likely to be involved."
+    },
+    {
+     "label": "TAKE-HOME MESSAGES",
+     "text": "Monoallelic NEXN loss of function can cause end-stage infantile DCM. Reported outcomes in children run from spontaneous recovery to transplantation. Retrospective genetic testing of adults transplanted in childhood can establish a molecular diagnosis 2 decades later and redirect screening for their relatives."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111348",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096735/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111348",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096729",
+   "title": "ECPR-to-Heart Transplant in a Young Woman With PPA2-Associated Metabolic Cardiomyopathy Presenting as Inferolateral STEMI",
+   "authors": [
+    "Steinberg RS",
+    "Fagundes Couto JA",
+    "Huft K",
+    "Fernandes S",
+    "Carroll AM",
+    "Grover P",
+    "Anneling M",
+    "DiBernardo LR",
+    "Koeberl DD",
+    "Rosario KF"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "PPA2-related mitochondrial cardiomyopathy is a rare, autosomal recessive disorder associated with rapidly progressive dilated cardiomyopathy, ventricular arrhythmias, and sudden cardiac death. Heightened sensitivity to alcohol has been reported in some affected individuals. Heart transplantation in affected patients is rarely reported."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 21-year-old woman with no prior history presented with chest pain, dyspnea, abdominal pain, and vomiting after alcohol intake. Electrocardiogram showed inferior and lateral ST-segment elevation. She developed pulseless electrical activity arrest en route to coronary angiography and underwent extracorporeal cardiopulmonary resuscitation. Coronary angiography was normal. Echocardiography revealed severe biventricular dysfunction (left ventricular ejection fraction <20%). Despite Impella 5.5 support, no recovery occurred. Whole-genome sequencing identified pathogenic and likely pathogenic PPA2 variants, confirming PPA2-related mitochondrial cardiomyopathy. She underwent successful orthotopic heart transplantation."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "This case highlights fulminant cardiogenic shock due to PPA2-related cardiomyopathy. Rapid genomic sequencing established the diagnosis when angiography and endomyocardial biopsy were unrevealing, informed prognosis, and enabled genetic counseling and cascade family testing."
+    },
+    {
+     "label": "TAKE-HOME MESSAGES",
+     "text": "PPA2 cardiomyopathy should be suspected in young patients with arrest, severe ventricular dysfunction, and normal coronaries. Rapid genomic sequencing can be diagnostic and guide management."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111207",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096729/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111207",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096722",
+   "title": "Papillary Fibroelastoma in Transplant Recipients",
+   "authors": [
+    "Oduah MT",
+    "Kumar A",
+    "Klarich KW",
+    "Zahid M"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Papillary fibroelastomas (PFEs), benign valvular cardiac tumors, are uncommonly reported in transplant recipients, with management complicated by comorbidities."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "Five patients (ages 27-77 years) underwent heart transplantation, with complicated post-transplant courses, and were maintained chronically on immunosuppression. Surveillance echocardiography identified valvular PFEs, 0.4 to 0.6 cm in size, with timing varying from intraoperative imaging (donor hearts) to 10 years post-transplant."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "The majority of PFEs were clinically silent, small, relatively stable, and, given elevated operative risk, were managed conservatively with continued surveillance. KRAS mutations, reported in ∼33% of PFEs, suggest a neoplastic origin, though the synergistic impact of immunosuppression in PFE growth and proliferation in transplant recipients is unknown. Lack of large databases for PFEs in transplant recipients limits direct comparison with nontransplant patients."
+    },
+    {
+     "label": "TAKE-HOME MESSAGES",
+     "text": "These cases underscore the value of surveillance imaging and need for balancing surgical risk in management. Prolonged follow-up is needed to clarify natural history and optimal management."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111257",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096722/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111257",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43085438",
+   "title": "Pushing the boundaries in extending cardiac graft preservation: Hypothermic, oxygenated perfusion (HOPE) versus enhanced normothermic perfusion in a porcine model of donation after circulatory death (DCD)",
+   "authors": [
+    "Beer G",
+    "Ottersberg R",
+    "Segiser A",
+    "Helmer A",
+    "Clavier A",
+    "Egle M",
+    "Arnold M",
+    "Bartkevics M",
+    "Kadner A",
+    "Odening KE",
+    "Siepe M",
+    "Longnus S"
+   ],
+   "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+   "journal_abbrev": "J Heart Lung Transplant",
+   "ta": "J Heart Lung Transplant",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Excellent outcomes have been reported for heart transplantation with donation after circulatory death (DCD) using graft preservation/evaluation protocols with normothermic ex situ heart perfusion (ESHP); however, little information is available for hypothermic oxygenated perfusion (HOPE). We investigated extending heart preservation with HOPE versus normothermic perfusion (NP) enhanced with plasma exchange using a porcine DCD model."
+    },
+    {
+     "label": "METHODS",
+     "text": "Healthy male adult pigs underwent simulated DCD with 15 minutes of warm ischemia. Two ESHP groups were included: enhanced NP (continued as long as ventricular contraction/coronary perfusion was maintained) versus HOPE (20 hours pre-defined duration). Cardiac recovery was evaluated in all hearts under normothermic conditions with ex situ left-ventricular loading."
+    },
+    {
+     "label": "RESULTS",
+     "text": "ESHP was significantly longer in HOPE versus NP hearts (23.5 versus 10.5 hours, p<0.05), while ventricular, vascular and metabolic recovery remained similar. Markers of oxidative stress and myocardial cell death, as well as cytokine release, were significantly reduced with HOPE compared to NP, but increased upon rewarming to levels similar to NP hearts."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "Both enhanced NP and HOPE enable extended ESHP of DCD hearts. Although HOPE preservation provides several benefits, such as ESHP times beyond 20 hours and cardioprotection by lowering oxidative stress and inflammation, the transition from HOPE to normothermic conditions poses a risk of rewarming-related damage, and graft evaluation methods during HOPE remain to be developed. Further research towards the optimization of HOPE for DCD hearts is required."
+    }
+   ],
+   "conclusion": "Both enhanced NP and HOPE enable extended ESHP of DCD hearts. Although HOPE preservation provides several benefits, such as ESHP times beyond 20 hours and cardioprotection by lowering oxidative stress and inflammation, the transition from HOPE to normothermic conditions poses a risk of rewarming-related damage, and graft evaluation methods during HOPE remain to be developed. Further research towards the optimization of HOPE for DCD hearts is required.",
+   "doi": "10.1016/j.healun.2026.11.019",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43085438/",
+   "url": "https://doi.org/10.1016/j.healun.2026.11.019",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43081678",
+   "title": "Assessment of Medical Urgency for Heart Transplant in Patients With Cardiac Amyloidosis and Hypertrophic Cardiomyopathy Using a Continuous Risk Score",
+   "authors": [
+    "Greenstone S",
+    "White BM",
+    "Kanwar MK",
+    "Nguyen AB",
+    "Sarswat N",
+    "Ahn DJ",
+    "Khush KK",
+    "Parker WF",
+    "Narang N"
+   ],
+   "journal": "Circulation. Heart failure",
+   "journal_abbrev": "Circ Heart Fail",
+   "ta": "Circ Heart Fail",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "The current 6-status US heart allocation system uses a treatment-based framework for heart transplantation listing, with status 1 representing the highest urgency. However, this system may inadequately risk-stratify patients with restrictive cardiomyopathy, specifically cardiac amyloidosis (CA) and hypertrophic cardiomyopathy (HCM), for whom many high-intensity medical and device-based therapies are less effective."
+    },
+    {
+     "label": "METHODS",
+     "text": "We identified all adult heart transplantation candidates listed between 2019 and 2024 using the Scientific Registry of Transplant Recipients. We determined the medical urgency of candidates with CA and HCM using the validated 50-point US-Candidate Risk Score, which incorporates laboratory data and use of mechanical circulatory support."
+    },
+    {
+     "label": "RESULTS",
+     "text": "The study cohort included 26 545 candidates (median age, 56 years; 74% male), of whom 534 were diagnosed with CA (2.0%) and 860 with HCM (3.2%). Overall, patients with CA had significantly higher overall median UC-CRS scores compared with those with HCM and other diagnoses (36, 26, 30; P<0.01), and across statuses 1 to 4. A higher proportion of patients with CA were categorized as high risk (CRS >40) compared with other diagnoses (33% versus 27%; P<0.01), while patients with HCM had the lowest proportion of high-risk scores (22%). Status 2 was the most common status at transplant across all groups, with exceptions at status 2 most frequently used among patients with CA and HCM compared with all others (58%, 70%, 46%; P<0.01)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "Patients with CA have higher medical acuity by US-Candidate Risk Score than is reflected in the current 6-status system. Both CA and HCM rely heavily on exceptions to achieve transplantation, highlighting the need for a continuous risk-based allocation model."
+    }
+   ],
+   "conclusion": "Patients with CA have higher medical acuity by US-Candidate Risk Score than is reflected in the current 6-status system. Both CA and HCM rely heavily on exceptions to achieve transplantation, highlighting the need for a continuous risk-based allocation model.",
+   "doi": "10.1161/CIRCHEARTFAILURE.126.014710",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43081678/",
+   "url": "https://doi.org/10.1161/CIRCHEARTFAILURE.126.014710",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43080794",
+   "title": "Trajectory of Pleural effusion and clinical outcomes in acute Heart Failure (TOP-HF): a prospective observational study",
+   "authors": [
+    "Pérez-Pisón E",
+    "Croset F",
+    "Pérez Nieva A",
+    "Campos J",
+    "Oyuela Rodríguez JE",
+    "García Melero M",
+    "Pérez C",
+    "Vergara M",
+    "Cevallos Castro AP",
+    "Pumares M",
+    "Contreras I",
+    "Fernández C",
+    "Fabregate M",
+    "Del Hoyo Cuenda B",
+    "Manzano L",
+    "Llàcer P"
+   ],
+   "journal": "European heart journal open",
+   "journal_abbrev": "Eur Heart J Open",
+   "ta": "Eur Heart J Open",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "AIMS",
+     "text": "Pleural effusion (PE) is a common finding in acute heart failure (AHF). However, its trajectory and its prognostic implications have been poorly characterized. We aimed to evaluate the in-hospital and early post-discharge trajectory of PE and its association with clinical outcomes and health-related quality of life."
+    },
+    {
+     "label": "METHODS AND RESULTS",
+     "text": "This prospective single-centre study included 100 patients hospitalized with AHF and PE at admission. Pleural effusion severity was serially assessed by thoracic ultrasound at admission, discharge, and 30, 90, and 180 days after discharge. The primary endpoint was the 180-day composite of all-cause death or worsening heart failure (WHF). Associations with PE trajectory were assessed using multivariable Cox regression. Health-related quality of life was evaluated with the Kansas City Cardiomyopathy Questionnaire. Median age was 88 years (interquartile range 83-92), 70% were women, and 80% had preserved ejection fraction. Pleural effusion improved during hospitalization in 59%; complete resolution occurred in 20% at discharge and 71.8% at 180 days. After adjustment, PE trajectory was not significantly associated with the composite endpoint [hazard ratio (HR) 1.30, 95% confidence interval (CI) 0.69-2.45; P = 0.417], death (HR 2.34, 95% CI 0.84-6.47; P = 0.103), or WHF (HR 1.20, 95% CI 0.61-2.35; P = 0.598). Kansas City Cardiomyopathy Questionnaire trajectories did not differ significantly by PE trajectory."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "Pleural effusion frequently improved during hospitalization and continued to resolve after discharge. Pleural effusion trajectory was not significantly associated with 180-day outcomes in this cohort, whereas residual B-lines at discharge were associated with adverse outcomes."
+    }
+   ],
+   "conclusion": "Pleural effusion frequently improved during hospitalization and continued to resolve after discharge. Pleural effusion trajectory was not significantly associated with 180-day outcomes in this cohort, whereas residual B-lines at discharge were associated with adverse outcomes.",
+   "doi": "10.1093/ehjopen/oeag202",
+   "pmc": "PMC13795249",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43080794/",
+   "url": "https://doi.org/10.1093/ehjopen/oeag202",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43077342",
+   "title": "Right atrial reservoir strain and clinical outcomes after mitral transcatheter edge-to-edge repair",
+   "authors": [
+    "Tanaka T",
+    "Izumo M",
+    "Miyahara D",
+    "Oda R",
+    "Shiokawa N",
+    "Saito A",
+    "Shoji T",
+    "Okuno T",
+    "Kai T",
+    "Sato Y",
+    "Kuwata S",
+    "Akashi YJ"
+   ],
+   "journal": "European heart journal. Cardiovascular Imaging",
+   "journal_abbrev": "Eur Heart J Cardiovasc Imaging",
+   "ta": "Eur Heart J Cardiovasc Imaging",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "The clinical relevance of right atrial (RA) function in patients undergoing mitral transcatheter edge-to-edge repair (M-TEER) remains unclear. We investigated the association between RA reservoir strain (RASr) and clinical outcomes in patients undergoing M-TEER."
+    },
+    {
+     "label": "METHODS",
+     "text": "We retrospectively assessed RASr using automated two-dimensional strain analytical software in patients undergoing M-TEER. The primary outcome was a composite of all-cause mortality and heart failure hospitalization after M-TEER."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Of 298 patients undergoing M-TEER (age 78.1 ± 9.6 years; male 61.1%; and functional mitral regurgitation 64.4%), the median RASr was 19.6% (interquartile range: 10.3-32.5%). Atrial fibrillation, larger RA area, lower left atrial reservoir strain, and lower tricuspid annular plane systolic excursion or right ventricular fractional area change were correlated to lower RASr. Lower RASr was associated with a higher risk of the primary outcome, independently of clinical and echocardiographic characteristics and procedural results (adjusted hazard ratio: 0.96 per 1% increase in RASr, 95% confidence interval: 0.92-0.99, p=0.031). Our maximally selected log-rank statistics showed that the optimal cut-off value of RASr to discriminate the primary outcome was 24%. Incorporating RASr into conventional clinical and echocardiographic parameters improved model fit, with a modest improvement in discrimination for clinical outcome after M-TEER."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "Reduced RASr is associated with adverse clinical outcomes after M-TEER. Our findings highlight the potential importance of RASr as a component of right-sided cardiac function. The assessment of RASr may improve risk stratification in patients undergoing M-TEER."
+    }
+   ],
+   "conclusion": "Reduced RASr is associated with adverse clinical outcomes after M-TEER. Our findings highlight the potential importance of RASr as a component of right-sided cardiac function. The assessment of RASr may improve risk stratification in patients undergoing M-TEER.",
+   "doi": "10.1093/ehjci/jeag331",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077342/",
+   "url": "https://doi.org/10.1093/ehjci/jeag331",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43076840",
+   "title": "Transcatheter Tricuspid Valve Replacement Versus Medical Therapy for Severe Secondary Tricuspid Regurgitation: The TRIPLACE Registry",
+   "authors": [
+    "Scotti A",
+    "von Stein P",
+    "Puri R",
+    "Sturla M",
+    "Coisne A",
+    "Ludwig S",
+    "Echarte-Morales J",
+    "Zahr F",
+    "Boone R",
+    "Kodali SK",
+    "Tchétché D",
+    "De Backer O",
+    "Stolz L",
+    "Estevez-Loureiro R",
+    "De Marco F",
+    "Mangieri A",
+    "Garcia SA",
+    "Ben Ali W",
+    "Mahabadi AA",
+    "Ho EC",
+    "Cheung A",
+    "Biroli M",
+    "Curio J",
+    "Patrascu A",
+    "Alnasser S",
+    "Chadderdon S",
+    "Kobari Y",
+    "Guddeti R",
+    "Sievert H",
+    "Byrne T",
+    "Maisano F",
+    "Frerker C",
+    "Dumonteil N",
+    "Oliva OA",
+    "Rudolph TK",
+    "Rudolph F",
+    "Kirchner J",
+    "Krishnaswamy A",
+    "Kapadia SR",
+    "Del Portillo J",
+    "Rodés-Cabau J",
+    "Schofer N",
+    "Cruz-González I",
+    "Adam M",
+    "Granada JF",
+    "Hausleiter J",
+    "Hahn RT",
+    "Modine T",
+    "Fam N",
+    "Latib A",
+    "TRIPLACE Investigators"
+   ],
+   "journal": "JACC. Cardiovascular interventions",
+   "journal_abbrev": "JACC Cardiovasc Interv",
+   "ta": "JACC Cardiovasc Interv",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Severe tricuspid regurgitation (TR) carries a poor prognosis, yet comparative real-world data on transcatheter tricuspid valve replacement (TTVR) versus medical therapy remain limited."
+    },
+    {
+     "label": "OBJECTIVES",
+     "text": "The aim of this study was to compare clinical outcomes of TTVR versus medical therapy in patients with secondary TR."
+    },
+    {
+     "label": "METHODS",
+     "text": "This observational study included the TRIPLACE registry (NCT06033274; TTVR cohort, N = 395, 24 centers, 2017-2025) and the Bronx-Valve Registry (NCT05453526; medical therapy cohort, N = 784, single center, 2017-2019). A 30-covariate propensity score was used for overlap weighting, targeting the average treatment effect in the overlap population (ATO). The primary endpoint was the 2-year composite of all-cause mortality or heart failure (HF) hospitalization."
+    },
+    {
+     "label": "RESULTS",
+     "text": "TTVR achieved ≤ mild TR in 93.7% and ≤ moderate TR in 98.7%. In-hospital mortality was 0.8%. The most common 30-day adverse events were new permanent pacemaker implantation (14.8%) and severe bleeding (6.5%). Median follow-up was 363 days (Q1-Q3: 63-1,151 days). After ATO weighting, all covariates included in the propensity score model achieved exact mean balance (maximum standardized mean difference: 0.000). TTVR was associated with a lower 2-year primary endpoint (ATO-HR: 0.60 [95% CI: 0.40-0.89]; P = 0.012) and lower all-cause mortality (ATO-HR: 0.61 [95% CI: 0.38-0.99]; P = 0.044), whereas HF hospitalization did not differ significantly between groups (ATO-cause-specific HR: 0.69 [95% CI: 0.39-1.24]; P = 0.215)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "In this observational comparison, TTVR was associated with a lower 2-year risk of all-cause mortality or HF hospitalization compared with medical therapy in patients with secondary TR. These findings should be interpreted in the context of procedure-related risks and the nonrandomized study design."
+    },
+    {
+     "label": "REGISTRATION",
+     "text": "(Global Multicenter Registry on Transcatheter TRIcuspid Valve RePLACEment [TRIPLACE]; NCT06033274)."
+    }
+   ],
+   "conclusion": "In this observational comparison, TTVR was associated with a lower 2-year risk of all-cause mortality or HF hospitalization compared with medical therapy in patients with secondary TR. These findings should be interpreted in the context of procedure-related risks and the nonrandomized study design.",
+   "doi": "10.1016/j.jcin.2026.10.036",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43076840/",
+   "url": "https://doi.org/10.1016/j.jcin.2026.10.036",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43076812",
+   "title": "Simultaneous Mitral and Tricuspid Transcatheter Edge-to-Edge Repair in Transthyretin Cardiac Amyloidosis",
+   "authors": [
+    "Singer K",
+    "Hauptmann L",
+    "Autherith M",
+    "Poledniczek M",
+    "Schmid L",
+    "Bergler-Klein J",
+    "Demirel C",
+    "Dannenberg V",
+    "Bartko PE",
+    "Nitsche C"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Cardiac amyloidosis can be accompanied by combined atrioventricular regurgitation, yet same-session transcatheter treatment of both valves in this setting remains rarely reported."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 78-year-old man with wild-type transthyretin amyloid-associated cardiomyopathy, permanent atrial fibrillation, and progressive heart failure under transthyretin amyloidosis-specific medication presented with severe symptomatic mitral and tricuspid regurgitation. Same-session transcatheter edge-to-edge repair was successfully performed using 1 device at the mitral and 2 devices at the tricuspid valve. Mitral and tricuspid regurgitation were reduced from severe to mild-moderate and from torrential to moderate, with intraprocedural final mean gradients of 3 mm Hg and 1 mm Hg, respectively."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "At 1 year, the patient was in New York Heart Association functional class I and II, and N-terminal pro-B-type natriuretic peptide had decreased from 2,550 to 726 pg/mL."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "In selected patients with transthyretin cardiac amyloidosis with severe symptomatic bivalvular regurgitation, combined transcatheter edge-to-edge repair at both atrioventricular valves may offer an effective treatment option."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111415",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43076812/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111415",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43083538",
+   "title": "Stress-Induced Cardiomyopathy as the Initial Presentation of Sato-Variant Cyclic Vomiting Syndrome in a Child",
+   "authors": [
+    "Alkhlaifat N",
+    "Alshekhhossin AR",
+    "El Wahab K",
+    "Nofal M",
+    "Alzyod H",
+    "Kc J",
+    "Murphy RR"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "The Sato variant of cyclic vomiting syndrome (CVS) is characterized by hypothalamic-pituitary-adrenal axis hyperactivation with episodic catecholamine surges, hypertension, and lethargy. Catecholamine-mediated cardiovascular complications have not been characterized in this population."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 6-year-old girl presented with cardiogenic shock and severe left ventricular systolic dysfunction (ejection fraction 11%). Cardiac biomarkers were markedly elevated. Ventricular function recovered within 2 weeks, and cardiac magnetic resonance imaging showed no late gadolinium enhancement, excluding myocarditis. The presentation was consistent with stress-induced (Takotsubo) cardiomyopathy. She was subsequently diagnosed with the Sato variant of CVS after developing recurrent stereotypical vomiting episodes complicated by hypertensive crises (systolic pressures >200 mm Hg). Management with propranolol prophylaxis and on-demand antihypertensives preserved cardiac function over nearly 2 years of follow-up."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "This is the first report of stress cardiomyopathy complicating Sato-variant CVS without an arrhythmogenic substrate, demonstrating that episodic catecholamine surges in this subtype can produce life-threatening cardiac complications in children."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111562",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43083538/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111562",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43083535",
+   "title": "Aortic Root Replacement and LVAD in Valvular Heart Disease: Bridge to Recovery",
+   "authors": [
+    "Tang Y",
+    "Pan J",
+    "Zhang J",
+    "Li Q",
+    "Yu S",
+    "Yang F",
+    "Wang B",
+    "Li B",
+    "Han L"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "End-stage valvular heart disease with severe myocardial fibrosis is traditionally managed with heart transplantation."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 31-year-old man with bicuspid aortic valve, severe regurgitation, ejection fraction of 16%, and extensive fibrosis (extracellular volume, 39.1%) underwent a Bio-Bentall procedure with left ventricular assist device (LVAD) implantation. After 27 months of support with optimized guideline-directed medical therapy, ejection fraction recovered to 66%, permitting minimally invasive device explantation. Paired histopathology demonstrated collagen volume fraction regression from 40.26% to 0.65%."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "This case challenges the dogma that severe fibrosis precludes myocardial recovery. The outcome likely reflects synergistic effects of volume overload correction, sustained mechanical unloading, and aggressive neurohormonal blockade. However, bridge to recovery remains uncommon, requires long-term commitment, and is not reproducible in all comparable patients."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "Combined Bio-Bentall and LVAD implantation may achieve bridge to recovery in carefully selected young patients with end-stage valvular disease, but patient selection remains critical and outcomes are not guaranteed."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111538",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43083535/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111538",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43079904",
+   "title": "Cath Lab Mortality Evaluation: A Methodical Approach in Accordance With Contemporary Best Practices at the World's Largest PCI Center",
+   "authors": [
+    "Bhatti K",
+    "Shah JA",
+    "Sher A",
+    "Khan KA",
+    "Qamar N",
+    "Mengal MN",
+    "Ali A",
+    "Khan N",
+    "Hakeem A"
+   ],
+   "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions",
+   "journal_abbrev": "Catheter Cardiovasc Interv",
+   "ta": "Catheter Cardiovasc Interv",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Morbidity and Mortality Conferences (MMCs) are essential for enhancing quality in cardiac catheterization laboratories, yet their translation into actionable improvements is often limited. We share our experience with a system-based quality improvement (QI) initiative at the National Institute of Cardiovascular Diseases (NICVD) in Karachi, Pakistan, the world's largest primary percutaneous coronary intervention (PCI) center, aimed at enhancing the quality of cath lab operations and patient care for high-risk South Asian patients with acute coronary syndrome."
+    },
+    {
+     "label": "METHODS",
+     "text": "From October 2022 to September 2023, a structured MMC-QI framework was implemented to review all 463 cath lab mortalities (from 9265 primary PCIs and 2769 early invasive PCIs). Weekly multidisciplinary reviews by a cardiologist-led committee evaluated patient characteristics, procedural deficiencies, and system delays using standardized forms. Findings were categorized (e.g., technical errors, system inefficiencies) and informed targeted QI interventions, such as streamlined emergency department (ED) triage and enhanced PCI protocols. Descriptive statistics and subgroup analyses (age, gender) were conducted, with door-to-balloon (DTB) times compared pre- and post-intervention."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Of 463 mortalities (5.4% rate), 64.1% were male (mean age 61.8 ± 10.9 years), 76% had cardiogenic shock, and 87.5% died within 48 h. Key issues included suboptimal stenting (29%), no-reflow/slow-flow complications (22.5%), and inadequate technical approaches (13.2%). Unexpected mortalities (43%) were more common in females (p = 0.039), with higher diagnostic inadequacies (p < 0.001). QI interventions reduced technical issues (23% to 4.3%), procedural complications (33% to 15%), inadequate stenting (40% to 22%), and ED delays (33% to 18%). Median DTB time improved from 115 to 95 min (p < 0.05)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "Our experience with an MMC-QI framework demonstrates significant improvements in procedural quality, system efficiency, and care delivery in a high-volume PCI center. While mortality rates remained stable, this system-based approach offers a scalable model for high-burden settings, with potential for broader application pending further evaluation of long-term clinical outcomes."
+    }
+   ],
+   "conclusion": "Our experience with an MMC-QI framework demonstrates significant improvements in procedural quality, system efficiency, and care delivery in a high-volume PCI center. While mortality rates remained stable, this system-based approach offers a scalable model for high-burden settings, with potential for broader application pending further evaluation of long-term clinical outcomes.",
+   "doi": "10.1002/ccd.70993",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43079904/",
+   "url": "https://doi.org/10.1002/ccd.70993",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Other cardiology & physiology"
+  },
+  {
+   "pmid": "43077672",
+   "title": "Vector Flow Mapping Energy Loss and Pump Flow in Left Ventricular Assist Device Patients: A Transesophageal Echocardiography Pilot Study",
+   "authors": [
+    "Tsujimoto H",
+    "Kanazawa H",
+    "Tsukinaga A",
+    "Shimokawa A",
+    "Morinaga M",
+    "Ito Y",
+    "Miura S",
+    "Yoshitani K",
+    "Maeda T"
+   ],
+   "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+   "journal_abbrev": "ASAIO J",
+   "ta": "ASAIO J",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Left ventricular assist device (LVAD) support redirects intraventricular flow toward the inflow cannula. We examined whether vector flow mapping-derived energy loss (EL), a measure of viscous dissipation related to spatial velocity gradients, was associated with controller-displayed pump flow. This prospective single-center pilot enrolled 33 patients undergoing LVAD-related surgery with intraoperative transesophageal echocardiography; 31 HeartMate 3 recipients were analyzable. The maximum available peak EL across three views was the primary measure. Log-transformed maximum peak EL was associated with displayed flow after adjustment for pump speed and left ventricular end-diastolic diameter (B = 0.181, 95% confidence interval [CI]: 0.033-0.330), cannula angle (B = 0.204, 95% CI: 0.052-0.356), or aortic regurgitation grade (B = 0.204, 95% CI: 0.050-0.358). Among 28 complete cases, associations persisted using the mean of three view-specific peaks (B = 0.213-0.245; p = 0.007-0.019). In a 10-case interobserver reanalysis, maximum peak EL had an intraclass correlation coefficient of 0.759 (95% CI: 0.294-0.934), with ratio limits of agreement of 0.56-2.41. Cannula angle and aortic regurgitation grade were not associated with EL. These preliminary findings support larger prospective studies but do not establish mechanism, measurement interchangeability, or clinical utility."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1097/MAT.0000000000002927",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077672/",
+   "url": "https://doi.org/10.1097/MAT.0000000000002927",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43080668",
+   "title": "Renal function and outcomes in pulmonary arterial hypertension: a French Pulmonary Hypertension Registry study",
+   "authors": [
+    "Neagu A",
+    "Seferian A",
+    "Jaïs X",
+    "Jevnikar M",
+    "Beauvais A",
+    "Baron A",
+    "Chaouat A",
+    "Degano B",
+    "Horeau-Langlard D",
+    "Lamblin N",
+    "Maurac A",
+    "Prévot G",
+    "Cottin V",
+    "Savale L",
+    "Humbert M",
+    "Sitbon O",
+    "Montani D",
+    "Boucly A",
+    "on behalf on the French PH Network"
+   ],
+   "journal": "ERJ open research",
+   "journal_abbrev": "ERJ Open Res",
+   "ta": "ERJ Open Res",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Renal impairment is frequent in pulmonary arterial hypertension (PAH), yet renal function is not currently accounted for in the European Society of Cardiology (ESC)/European Respiratory Society (ERS) risk stratification tools. We investigated whether renal function provides independent prognostic information in PAH after adjustment for ESC/ERS risk score."
+    },
+    {
+     "label": "METHODS",
+     "text": "We conducted a retrospective analysis of the French Pulmonary Hypertension (PH) Network registry. Estimated glomerular filtration rate (eGFR) was calculated using the 2021 CKD-EPI equation. Renal dysfunction prevalence (eGFR <60 mL·min-1·1.73 m-2) was assessed in patients with PAH (n=3383). Time-to-event analyses for transplant-free survival were performed using Cox models adjusted for age, sex and ESC/ERS risk scores at baseline and at 3-12 months of follow-up."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Renal dysfunction (eGFR <60 mL·min-1·1.73 m-2) was present in 28% of patients with PAH. Baseline eGFR <45 mL·min-1·1.73 m-2 was independently associated with reduced transplant-free survival in multivariable analysis. At 3-12 months of follow-up, eGFR <60 mL·min-1·1.73 m-2 predicted adverse outcomes in multivariable models (hazard ratio 1.25, 95% confidence interval 1.04-1.50; p=0.018). Among patients with preserved baseline renal function, a relative decline in eGFR of ≥10% was independently associated with a higher risk of death or lung transplantation."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "Baseline renal impairment and subsequent deterioration in renal function are independently associated with poorer transplant-free survival in PAH, beyond ESC/ERS risk stratification. These findings support consideration of renal function in prognostic assessment of patients with PAH. Baseline renal impairment and subsequent deterioration in renal function are independently associated with poorer transplant-free survival in PAH, beyond ESC/ERS risk stratification."
+    }
+   ],
+   "conclusion": "Baseline renal impairment and subsequent deterioration in renal function are independently associated with poorer transplant-free survival in PAH, beyond ESC/ERS risk stratification. These findings support consideration of renal function in prognostic assessment of patients with PAH. Baseline renal impairment and subsequent deterioration in renal function are independently associated with poorer transplant-free survival in PAH, beyond ESC/ERS risk stratification.",
+   "doi": "10.1183/23120541.00608-2026",
+   "pmc": "PMC13794310",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43080668/",
+   "url": "https://doi.org/10.1183/23120541.00608-2026",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Original research",
+   "family": "ERS"
+  },
+  {
+   "pmid": "43070118",
+   "title": "Left Atrial Stiffness Index and Prognosis Across Heart Failure Phenotypes in Acute Heart Failure: Insights from the STRATS-AHF Registry",
+   "authors": [
+    "Lee JH",
+    "Park JH",
+    "Hwang IC",
+    "Park JJ",
+    "Park JB",
+    "Cho GY"
+   ],
+   "journal": "European journal of heart failure",
+   "journal_abbrev": "Eur J Heart Fail",
+   "ta": "Eur J Heart Fail",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "AIMS",
+     "text": "The left atrial stiffness index (LASI), calculated as mitral E/e' divided by LA reservoir strain, reflects atrial myopathy and elevated filling pressure but has been studied mainly in heart failure with preserved ejection fraction (HFpEF). We examined whether LASI predicts all-cause mortality and HF hospitalization, and adds to established risk factors, across HF phenotypes in acute heart failure (AHF)."
+    },
+    {
+     "label": "METHODS AND RESULTS",
+     "text": "We analyzed 3,133 patients with AHF from the multicenter STRATS-AHF registry, classified by LVEF into HFrEF, HFmrEF, and HFpEF. During a median follow-up of 32.5 months, 616 (19.7%) had HF admissions, and 1,281 (40.9%) died. After adjustment, each doubling of LASI was associated with mortality (HR 1.13, 95% CI 1.08-1.19), as was LASI above the exploratory cutoff of 1.0 (HR 1.27, 95% CI 1.11-1.46). The association was similar across phenotypes (P for interaction = 0.65) and extended to HF hospitalization and the composite of death or HF hospitalization. LASI added modestly to established predictors; after adjustment for NT-proBNP, its association was not significant in patients with a measured value (HR 1.03, 95% CI 0.97-1.10) but persisted after multiple imputation in the whole cohort (HR 1.10, 95% CI 1.04-1.15)."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "In patients hospitalized for AHF, a higher LASI independently predicted all-cause mortality and HF hospitalization across HF phenotypes. Obtained from the admission echocardiogram, LASI captures an atrial component of risk that LVEF does not reflect, although part of this information overlaps with that of NT-proBNP; whether it can guide management remains to be tested."
+    }
+   ],
+   "conclusion": "In patients hospitalized for AHF, a higher LASI independently predicted all-cause mortality and HF hospitalization across HF phenotypes. Obtained from the admission echocardiogram, LASI captures an atrial component of risk that LVEF does not reflect, although part of this information overlaps with that of NT-proBNP; whether it can guide management remains to be tested.",
+   "doi": "10.1093/ejhf/xuag346",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070118/",
+   "url": "https://doi.org/10.1093/ejhf/xuag346",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43074159",
+   "title": "Transcatheter Edge-to-Edge Repair for Severe Isolated Tricuspid Regurgitation After Extended Follow-Up: The TRI-FR Randomized Clinical Trial",
+   "authors": [
+    "Donal E",
+    "Dreyfus J",
+    "Leurent G",
+    "Nejjari M",
+    "Auffret V",
+    "Guerin P",
+    "Modine T",
+    "Le Roux PY",
+    "Ganivet A",
+    "Sportouch-Dukhan C",
+    "Lavie-Badie Y",
+    "Rouleau F",
+    "Diakov C",
+    "Vola M",
+    "Bernard A",
+    "Neylon A",
+    "Pierrard R",
+    "Ternacle J",
+    "Tchetche D",
+    "Ghostine S",
+    "Ducrocq G",
+    "Si Moussi T",
+    "Peltier M",
+    "Le Dolley Y",
+    "Deharo P",
+    "Le Ven F",
+    "Picard F",
+    "Piriou N",
+    "Urena-Alcazar M",
+    "Laperche T",
+    "Jouan J",
+    "Bonnet G",
+    "de Groote P",
+    "Anselmi A",
+    "Trochu JN",
+    "Steg PG",
+    "Coisne A",
+    "Oger E",
+    "TRI-FR Investigators"
+   ],
+   "journal": "Circulation",
+   "journal_abbrev": "Circulation",
+   "ta": "Circulation",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Transcatheter tricuspid edge-to-edge repair (T-TEER) improves symptoms and health status at 1 year in patients with severe tricuspid regurgitation, but its association with clinical events during longer follow-up remains uncertain."
+    },
+    {
+     "label": "METHODS",
+     "text": "This secondary analysis reports extended follow-up of TRI-FR (URL: https://www.clinicaltrials.gov; Unique identifier: NCT04646811), a prospectively registered, multicenter randomized trial comparing T-TEER plus optimized medical therapy (OMT) with OMT alone in patients with severe symptomatic tricuspid regurgitation. In total, 300 patients were randomized (152 to T-TEER plus OMT and 148 to OMT alone). Prespecified analyses included time to first heart failure hospitalization (HFH), tricuspid surgery, or cardiovascular death using cause-specific Cox proportional-hazards models and recurrent HFH using the Lin-Wei-Yang-Ying model. A 12-month landmark analysis included patients alive and under follow-up at 12 months."
+    },
+    {
+     "label": "RESULTS",
+     "text": "During a median follow-up of 30.8 months (75th percentile, 41.0; maximum, 56.4), 101 HFHs (17 fatal), 5 additional cardiovascular deaths, and 11 tricuspid surgeries were recorded. Among 81 patients with a first composite event, T-TEER plus OMT reduced the risk versus OMT alone (hazard ratio, 0.56 [95% CI, 0.36-0.88]; P=0.0109). Cardiovascular death or tricuspid surgery did not differ significantly (hazard ratio, 0.75 [95% CI, 0.33-1.71]; P=0.4911). T-TEER plus OMT reduced recurrent HFH (Lin-Wei-Yang-Ying rate ratio, 0.52 [95% CI, 0.32-0.84]; P=0.0073). In the 12-month landmark cohort (n=276), T-TEER plus OMT was associated with lower risks of a first composite event (hazard ratio, 0.40 [95% CI, 0.23-0.70]; log-rank P=0.0009) and recurrent HFH (Lin-Wei-Yang-Ying rate ratio, 0.44 [95% CI, 0.23-0.83]; P=0.0120). Severe or greater tricuspid regurgitation at the last core laboratory assessment was present in 6.77% with T-TEER plus OMT and 53.5% with OMT alone (P<0.0001)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "In patients with severe symptomatic tricuspid regurgitation, T-TEER plus OMT reduced first composite events and recurrent HFH compared with OMT alone during extended follow-up. These associations persisted among patients alive and under follow-up at the 12-month landmark."
+    },
+    {
+     "label": "REGISTRATION",
+     "text": "URL: https://www.clinicaltrials.gov; Unique identifier: NCT04646811."
+    }
+   ],
+   "conclusion": "In patients with severe symptomatic tricuspid regurgitation, T-TEER plus OMT reduced first composite events and recurrent HFH compared with OMT alone during extended follow-up. These associations persisted among patients alive and under follow-up at the 12-month landmark.",
+   "doi": "10.1161/CIRCULATIONAHA.126.080397",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43074159/",
+   "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.080397",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43074161",
+   "title": "VAD Wean Recovery Network: Long-Term Outcomes of LVAD Weaning for Myocardial Recovery",
+   "authors": [
+    "Patel SR",
+    "Potapov E",
+    "Kanwar M",
+    "Sun B",
+    "Selzman CH",
+    "Bernhardt A",
+    "Ton VK",
+    "Schueler S",
+    "Yuzefpolskaya M",
+    "Díez-López C",
+    "Najjar E",
+    "Wever-Pinzon O",
+    "Agarwal R",
+    "Dranow E",
+    "Kyriakoulis I",
+    "Jorde U",
+    "Goldstein DJ",
+    "Riesgo-Gil F",
+    "Ravichandran A",
+    "Schmitto J",
+    "Hanff TC",
+    "Tseliou E",
+    "Stehlik J",
+    "Zimpfer D",
+    "Rojas SV",
+    "Ruiz Cano M",
+    "Lundgren SW",
+    "Nair A",
+    "Diakos NA",
+    "Bowles C",
+    "Jakstaite AM",
+    "Shah P",
+    "Birks E",
+    "Drakos SG"
+   ],
+   "journal": "Circulation",
+   "journal_abbrev": "Circulation",
+   "ta": "Circulation",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Myocardial recovery facilitated by the combination of a left ventricular assist device (LVAD) and guideline-directed medical therapy can lead to sufficient myocardial improvement. This in turn may allow LVAD weaning in appropriately selected patients with chronic advanced heart failure. However, sufficient data on the long-term outcomes of this therapeutic strategy are lacking, thereby hindering widespread adoption of LVAD weaning. We present the primary results from the VAD Wean Myocardial Recovery International Network examining long-term outcomes after LVAD weaning for myocardial recovery."
+    },
+    {
+     "label": "METHODS",
+     "text": "We studied 603 patients with chronic advanced heart failure from 60 international centers who underwent LVAD weaning. Preimplantation, LVAD cardiac recovery assessment, and postweaning patient characteristics and outcomes were analyzed. The primary outcome was event-free survival (free of heart transplantation or re-LVAD) in the weaned-for-recovery cohort."
+    },
+    {
+     "label": "RESULTS",
+     "text": "The LVAD-weaned cohort had a mean age of 42±15 years; 33% were female; and 9.4% had ischemic cardiomyopathy. At LVAD implantation, 88% had Intermacs (Interagency Registry for Mechanically Assisted Circulatory Support) profiles 1 to 3, and 41.6% required temporary mechanical circulatory support. Median LVAD support duration was 440 days (interquartile range, 261-770) before weaning. At the time of weaning, median left ventricular ejection fraction was 50% (interquartile range, 45%-57.5%), and left ventricular internal diastolic diameter was 48 mm (interquartile range, 43-53 mm). One-year survival after weaning was 91%, with 2.3% requiring re-LVAD and 3.7% requiring heart transplantation. In a secondary exploratory matched analysis against LVAD bridge-to-transplantation recipients from the International Society for Heart and Lung Transplantation registry, long-term survival was similar between groups."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "This international, multicenter analysis suggests that in patients with chronic advanced heart failure achieving myocardial recovery with LVAD support, device weaning yields excellent long-term outcomes. These findings may help address the underuse of LVADs as a bridge-to-recovery strategy in select patients."
+    }
+   ],
+   "conclusion": "This international, multicenter analysis suggests that in patients with chronic advanced heart failure achieving myocardial recovery with LVAD support, device weaning yields excellent long-term outcomes. These findings may help address the underuse of LVADs as a bridge-to-recovery strategy in select patients.",
+   "doi": "10.1161/CIRCULATIONAHA.126.081028",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43074161/",
+   "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081028",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43072672",
+   "title": "Ex Situ Echocardiography During Normothermic Perfusion: Serial Physiologic Full Cardiac-Output Assessments for Transplant Suitability",
+   "authors": [
+    "Alexander WD",
+    "Nakashima T",
+    "Hernandez BA",
+    "Zimmerman KG",
+    "King SD",
+    "Raza SS",
+    "Ling C",
+    "Rojas-Peña A",
+    "Drake DH"
+   ],
+   "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+   "journal_abbrev": "J Heart Lung Transplant",
+   "ta": "J Heart Lung Transplant",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Clinical normothermic ex situ donor-heart perfusion (NEHP) uses retrograde aortic infusion which prevents hemodynamic assessment. We sought to optimize and validate guideline-directed ex situ echocardiography (ESE) for assessment of transplant suitability using a novel full-cardiac output (FCO) circuit."
+    },
+    {
+     "label": "METHODS",
+     "text": "Following transthoracic echocardiography (TTE), porcine hearts were procured and maintained on NEHP for 24 hours. At hours 1, 12, and 24, maintenance NEHP was transitioned to low-preload working-heart mode (LPWH). Although not physiologic, LPWH ensured optimal coronary perfusion and allowed ESE. Hearts were transitioned to physiologic FCO mode and ESE was repeated. NEHP was returned to maintenance. LPWH-ESE and FCO-ESE parameters were compared to determine their ability to stratify function."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Forty-two echocardiograms (6 TTE, 36 ESE) were performed (n=6; 55±8 kg; female 50%; hearts 311±40gm). When compared to FCO-ESE, LPWH-ESE at hour 1 underestimated function (cardiac output (CO) 0.78±0.38 vs 3.26±1.70L/min, p=0.012; cardiac index (CI) 0.0024±0.0010 vs 0.0102±0.0048L/m/gm, p=0.009; stroke volume (SV) 8.0±3.5 vs 30.0±8.2mL, p=0.001; stroke work (SW) 279±102 vs 1683±1134mL/mmHg, p=0.026) and correlation was poor (R2 0.22-0.36). FCO-ESE successfully stratified function between hours 1 and 12 (LVEF 54.6±13.0 vs 33.6±6.0%, p=0.011; CO 3.26±1.70 vs 1.37±0.86L/min, p=0.003; CI 0.0102±0.0048 vs 0.0053±0.0027L/m/gm, p=0.016; SV 30.0±8.2 vs 15.3±6.6mL, p=0.001; SW 1683±1134 vs 686±472mL/mmHg, p=0.029), hours 12 and 24 (LVEF 33.6±6.0 vs 53.0±8.2%, p=0.036, and hours 1 and 24 (SV 30.0±8.2 vs 23.1±6.6mL, p=0.032). LPWH-ESE could not."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "Physiologic FCO guideline-directed ESE should facilitate determination of transplant suitability in currently discarded donor hearts and thereby increase the number available for transplantation."
+    },
+    {
+     "label": "SOCIAL MEDIA",
+     "text": "Guideline-directed Ex Situ Echocardiography during physiologic full cardiac output normothermic ex situ perfusion can reproducibly assess donor heart suitability for transplantation #EchoFirst @ASE360 @DHDrake."
+    }
+   ],
+   "conclusion": "Physiologic FCO guideline-directed ESE should facilitate determination of transplant suitability in currently discarded donor hearts and thereby increase the number available for transplantation.",
+   "doi": "10.1016/j.healun.2026.11.017",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072672/",
+   "url": "https://doi.org/10.1016/j.healun.2026.11.017",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43070178",
+   "title": "Outcomes of Catheter Ablation for Ventricular Arrhythmias Performed With ECMO Support: A 10-Year Institutional Experience",
+   "authors": [
+    "Sagawa Y",
+    "Afzalian A",
+    "Oraii A",
+    "Gardziejczyk P",
+    "Zado E",
+    "Wald J",
+    "Biscotti M",
+    "Cevasco M",
+    "Enriquez A",
+    "Hanumanthu BKJ",
+    "Guandalini G",
+    "Markman T",
+    "Shivamurthy P",
+    "Kumareswaran R",
+    "Riley MP",
+    "Deo R",
+    "Lin D",
+    "Schaller RD",
+    "Garcia FC",
+    "Nazarian S",
+    "Callans DJ",
+    "Supple GE",
+    "Frankel DS",
+    "Dixit S",
+    "Epstein AE",
+    "Marchlinski FE",
+    "Hyman MC"
+   ],
+   "journal": "Circulation. Arrhythmia and electrophysiology",
+   "journal_abbrev": "Circ Arrhythm Electrophysiol",
+   "ta": "Circ Arrhythm Electrophysiol",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Patients requiring extracorporeal membrane oxygenation (ECMO) for cardiogenic shock or hemodynamic instability due to ventricular arrhythmias (VAs) represent an extremely high-risk but understudied population. We aimed to evaluate the intraprocedural stability, predictors of in-hospital mortality, and long-term outcomes in patients undergoing ECMO-supported VA ablation."
+    },
+    {
+     "label": "METHODS",
+     "text": "This retrospective cohort study included 57 patients undergoing 64 catheter ablations of VAs with ECMO support (2016-2025). Independent predictors of in-hospital mortality were identified using multivariable-adjusted logistic regression."
+    },
+    {
+     "label": "RESULTS",
+     "text": "The median age of the patients was 62 years, and 70% had ischemic cardiomyopathy. At ECMO initiation, 40 patients (70%) presented with cardiogenic shock and 43 (75%) with electrical storm. ECMO provided robust stability; minimum mean arterial pressure was similar between ventricular and nonventricular tachycardia (55 versus 60 mm Hg; P=0.124). In-hospital mortality was 42% (24/57 [95% CI, 30%-55%]). Multivariable analysis identified age (odds ratio [OR], 1.18 per year [95% CI, 1.05-1.38]; P=0.004), ischemic cardiomyopathy (OR, 24.3 [95% CI, 2.3-700.57]; P=0.005), chronic kidney disease (OR, 9.76 [95% CI, 1.89-73.26]; P=0.006), and New York Heart Association class III or IV (OR, 12.72 [95% CI, 1.86-158.46]; P=0.008) as mortality predictors, whereas VA elimination was an independent protector against in-hospital death (OR, 0.12 [95% CI, 0.01-0.77]; P=0.025). In patients presenting with electrical storm (n=43), VA elimination (n=33) was associated with significantly lower in-hospital mortality than VA recurrence (n=10; 27% versus 80%; P=0.007). Among survivors (n=33), 3-year survival was 78.0%, with low rates of cardiac death (3%, 1/33) during follow-up (11 [3-38] months)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "ECMO-supported VA ablation is feasible and provides procedural stability. Although survival is limited by baseline reserve, VA elimination is associated with improved in-hospital outcomes, serving as a bridge to recovery or clinical decision."
+    }
+   ],
+   "conclusion": "ECMO-supported VA ablation is feasible and provides procedural stability. Although survival is limited by baseline reserve, VA elimination is associated with improved in-hospital outcomes, serving as a bridge to recovery or clinical decision.",
+   "doi": "10.1161/CIRCEP.126.015229",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070178/",
+   "url": "https://doi.org/10.1161/CIRCEP.126.015229",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43070860",
+   "title": "Transcatheter Tricuspid Edge-To-Edge Repair Versus Transcatheter Tricuspid Valve Replacement for Severe Symptomatic Tricuspid Regurgitation",
+   "authors": [
+    "Puri R",
+    "Scotti A",
+    "Tereshchenko LG",
+    "Russo G",
+    "Thiele H",
+    "Alessandrini H",
+    "Andreas M",
+    "Connelly KA",
+    "Estevez-Loureiro R",
+    "Hahn RT",
+    "Maisano F",
+    "Hausleiter J",
+    "Urena M",
+    "Monivas V",
+    "Pedrazzini G",
+    "Adamo M",
+    "Sievert H",
+    "Webb JG",
+    "Tang GHL",
+    "Stolz L",
+    "Lurz P",
+    "Kresoja KP",
+    "Benito-Gonzalez T",
+    "Sturla M",
+    "Zahr F",
+    "Boone R",
+    "Kodali S",
+    "Tchétché D",
+    "De Backer O",
+    "Coisne A",
+    "Ludwig S",
+    "Garcia SA",
+    "Adam M",
+    "De Marco F",
+    "Ho EC",
+    "Cheung A",
+    "Biroli M",
+    "Patrascu A",
+    "Alnasser S",
+    "Chadderdon S",
+    "Kobari Y",
+    "Echarte-Morales J",
+    "Byrne T",
+    "Frerker C",
+    "Dumonteil N",
+    "Oliva OA",
+    "Rudolph TK",
+    "Rudolph F",
+    "Guddeti R",
+    "Bakhtadze B",
+    "Krishnaswamy A",
+    "Kapadia SR",
+    "Portillo JD",
+    "Rodés-Cabau J",
+    "Schofer N",
+    "Cruz-Gonzalez I",
+    "Granada J",
+    "Modine T",
+    "Fam N",
+    "Latib A",
+    "Taramasso M"
+   ],
+   "journal": "JACC. Cardiovascular interventions",
+   "journal_abbrev": "JACC Cardiovasc Interv",
+   "ta": "JACC Cardiovasc Interv",
+   "date": "2026-11-22",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Transcatheter tricuspid edge-to-edge repair (T-TEER) and transcatheter tricuspid valve replacement (TTVR) are both approved for severe symptomatic tricuspid regurgitation (TR) but lack head-to-head comparison."
+    },
+    {
+     "label": "OBJECTIVES",
+     "text": "This study sought to compare 1-year outcomes of T-TEER vs TTVR using causal inference in a harmonized real-world cohort."
+    },
+    {
+     "label": "METHODS",
+     "text": "TRIVALVE (International Multisite Transcatheter Tricuspid Valve Therapies Registry) (T-TEER, n = 384) and TRIPLACE (Global Multicenter Registry on Transcatheter TRIcuspid Valve RePLACEment) (TTVR, n = 398) registries were harmonized (n = 782). Inverse probability weighted survival time estimated study group average treatment effect (ATE) and treated-study group average treatment effect on the treated (ATET) effects on time to all-cause death, heart failure hospitalization (HFH), tricuspid valve (TV) reintervention, bleeding, and their composite major adverse cardiovascular events (MACE), balanced for 14 baseline clinical/echocardiographic covariates, were undertaken."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Median follow-up by reverse Kaplan-Meier estimates was 276 days (IQR: 58-365). TTVR achieved near-complete TR elimination vs persistent mild-moderate residual TR post-T-TEER [median (IQR) grade 0 (0-1) vs 2 (1-2)]. Modeling demonstrated an early all-cause mortality penalty for TTVR (ATE: -81.3 days, P = 0.002; ATET: -79 days, P = 0.003) with a corresponding overall MACE signal (ATE: -70.7 days, P = 0.001; ATET: -69.3 days, P = 0.012)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "Despite more complete TR reduction, orthotopic TTVR may be associated with earlier all-cause mortality and MACE penalty over T-TEER. This hypothesis-generating analysis should spur further research to identify the optimal patient phenotype for T-TEER and TTVR technologies."
+    }
+   ],
+   "conclusion": "Despite more complete TR reduction, orthotopic TTVR may be associated with earlier all-cause mortality and MACE penalty over T-TEER. This hypothesis-generating analysis should spur further research to identify the optimal patient phenotype for T-TEER and TTVR technologies.",
+   "doi": "10.1016/j.jcin.2026.08.013",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070860/",
+   "url": "https://doi.org/10.1016/j.jcin.2026.08.013",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43069658",
+   "title": "A Contemporary Analysis of Microaxial Pump-Associated Cardiac Perforation Events From the FDA MAUDE Database",
+   "authors": [
+    "Rafique S",
+    "Sagalov A",
+    "Tamimi RA",
+    "Ghanem F",
+    "Patel R",
+    "Kapur N",
+    "Hafiz AM"
+   ],
+   "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions",
+   "journal_abbrev": "Catheter Cardiovasc Interv",
+   "ta": "Catheter Cardiovasc Interv",
+   "date": "2026-11-22",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Percutaneous microaxial pumps are used in cardiogenic shock and high-risk percutaneous coronary intervention (PCI), but left ventricular (LV) perforation is an infrequent but serious complication. In 2023, an FDA advisory warned of increased perforation risk."
+    },
+    {
+     "label": "AIMS",
+     "text": "To describe clinical setting, patterns, high-risk subgroups, and outcomes of LV perforation in real-world reports."
+    },
+    {
+     "label": "METHODS",
+     "text": "We queried the FDA Manufacturer and User Facility Device Experience (MAUDE) database (2016-2024) for Impella adverse-event reports, screened narratives for perforation terms, and manually adjudicated suspected cases to confirm LV perforation and extract device, clinical setting, presentation, management, and outcomes."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Among 24,424 Impella reports, 188 involved LV perforation (0.77%). Impella CP accounted for 52.7% and Impella 5.5 for 41.5% (few with 5.0/2.5; none with RP). Annual LV perforations per 1000 reports declined from 166.7 (2016) to 5.2 (2024). Events occurred most often during cardiac surgery (27.1%), acute coronary syndrome (19.1%), or high-risk PCI (17.0%). Intraprocedural diagnosis occurred in 76.2% and was more common with 5.5 versus CP (83.3% vs. 67.7%). With intraprocedural diagnosis, mortality was 24.6% for 5.5 and 28.4% for CP, versus 66.7% for both when diagnosis was post-procedural. Pericardial effusion (34.9%) and hypotension (28.6%) were common. Repair was attempted at 72.9% and reduced mortality, particularly for CP (19.7% with repair vs. 64.7% without; p < 0.001). Overall mortality was 30.2%, without differences by sex or race."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "LV perforation reported with Impella devices is rare but carries high mortality; earlier recognition and prompt repair are associated with improved survival."
+    }
+   ],
+   "conclusion": "LV perforation reported with Impella devices is rare but carries high mortality; earlier recognition and prompt repair are associated with improved survival.",
+   "doi": "10.1002/ccd.71028",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43069658/",
+   "url": "https://doi.org/10.1002/ccd.71028",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Other cardiology & physiology"
+  },
+  {
+   "pmid": "43067380",
+   "title": "Cardiopulmonary exercise testing responses to treatment in patients with pulmonary arterial hypertension and cardiopulmonary comorbidities",
+   "authors": [
+    "Baccelli A",
+    "Rinaldo RF",
+    "Davies RJ",
+    "Gin-Sing W",
+    "Vigo B",
+    "Lo Giudice F",
+    "Haji G",
+    "Howard LS"
+   ],
+   "journal": "Chest",
+   "journal_abbrev": "Chest",
+   "ta": "Chest",
+   "date": "2026-11-21",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Current ESC/ERS guidelines suggest that initial monotherapy should be considered for pulmonary arterial hypertension (PAH) with cardiopulmonary comorbidities. However, data on the cardiopulmonary physiological responses to treatment in this subset of patients remain limited. Our aim was to evaluate the cardiopulmonary exercise and gas exchange response to treatment in patients with PAH and cardiopulmonary comorbidities."
+    },
+    {
+     "label": "RESEARCH QUESTION",
+     "text": "Do patients with PAH and a cardiopulmonary phenotype display a worse exercise capacity and gas exchange response to treatment?"
+    },
+    {
+     "label": "STUDY DESIGN AND METHODS",
+     "text": "Incident treatment-naïve patients with idiopathic, heritable, drug/toxins-induced, HIV, and connective tissue disease-associated PAH were analysed at first follow-up. Comorbid patients were defined based on the presence of ≥3 risk factors among obesity (body mass index ≥30 Kg/m2), systemic arterial hypertension, diabetes mellitus, coronary artery disease, smoking history and transfer factor of the lung for carbon monoxide (TLCO) <45% predicted."
+    },
+    {
+     "label": "RESULTS",
+     "text": "A total of 178 patients were included: 52 with comorbidities and 126 without. Comorbid patients were older, predominantly male, and had a lower baseline exercise capacity, despite comparable hemodynamics. There were no differences in therapy, with approximately one third of patients receiving combination therapy in both groups at the time of reassessment. At follow-up, both groups demonstrated similar adjusted improvements from baseline in peak oxygen uptake, oxygen pulse, ventilatory efficiency and 6-minute walk distance, all known prognostic markers in PAH. However, comorbid patients exhibited a significantly worse gas exchange response to treatment, with an adjusted widening of the peak A-a gradient of +1.23 kPa compared with -0.35 kPa in patients without comorbidities (p=0.003)."
+    },
+    {
+     "label": "INTERPRETATION",
+     "text": "PAH patients with and without cardiopulmonary comorbidities achieve similar improvements in exercise capacity after treatment. However, the worse gas exchange response to exercise among comorbid patients warrants caution, careful monitoring and further research to confirm this finding."
+    }
+   ],
+   "conclusion": "PAH patients with and without cardiopulmonary comorbidities achieve similar improvements in exercise capacity after treatment. However, the worse gas exchange response to exercise among comorbid patients warrants caution, careful monitoring and further research to confirm this finding.",
+   "doi": "10.1016/j.chest.2026.11.011",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067380/",
+   "url": "https://doi.org/10.1016/j.chest.2026.11.011",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Original research",
+   "family": "Respiratory / pulmonary vascular"
+  },
+  {
+   "pmid": "43067120",
+   "title": "Distinct Treg-Mediated Cardiac Remodeling in HFpEF Mice Treated With Neonatal Mesenchymal Stem Cells and Their Secretome",
+   "authors": [
+    "Ge ZD",
+    "Han J",
+    "Takaesu F",
+    "Brazhkina O",
+    "Mishra R",
+    "Sharma S",
+    "Chen L",
+    "Fu X",
+    "Filipp M",
+    "Wai CM",
+    "Shao NY",
+    "Sinha A",
+    "Saha P",
+    "Puvvala A",
+    "Tulshyan A",
+    "Ventura L",
+    "Thakkar S",
+    "Bilewska A",
+    "Stefanowicz A",
+    "Guru SA",
+    "Gunasekaran M",
+    "Yang E",
+    "Dawn B",
+    "Yang P",
+    "Shah SJ",
+    "Thorp E",
+    "Davis ME",
+    "Kaushal S"
+   ],
+   "journal": "JACC. Basic to translational science",
+   "journal_abbrev": "JACC Basic Transl Sci",
+   "ta": "JACC Basic Transl Sci",
+   "date": "2026-11-21",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Heart failure with preserved ejection fraction lacks effective disease-modifying therapies. We show that neonatal mesenchymal stem cells and their secretome improve diastolic function by expanding regulatory T cells, reducing inflammation and fibrosis. Our new causal machine learning framework, variable importance prediction for cellular function, identified causal immune pathways driving cardiac functional improvement and revealed regulatory T cells as a therapeutic target."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jacbts.2026.101751",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067120/",
+   "url": "https://doi.org/10.1016/j.jacbts.2026.101751",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43063495",
+   "title": "Hemodynamic Effects of Three Different Mechanical Circulatory Support Strategies in Isolated Acute Right Heart Failure",
+   "authors": [
+    "Bari G",
+    "Mariani S",
+    "De Piero ME",
+    "Dickstein M",
+    "Schreuder J",
+    "Schmitto J",
+    "Di Mauro M",
+    "van Bussel B",
+    "Lo Coco V",
+    "Gazzaniga G",
+    "Meyer T",
+    "Li T",
+    "Haverich A",
+    "Lorusso R"
+   ],
+   "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+   "journal_abbrev": "ASAIO J",
+   "ta": "ASAIO J",
+   "date": "2026-11-20",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Although acute right ventricular failure (aRVF) is commonly treated with venoarterial extracorporeal membrane oxygenation (VA ECMO), this approach may increase complications. We compared femoro-femoral VA ECMO, single-lumen cannula femoro-pulmonary artery (V-Pa), and double-lumen cannula right atrium-to-pulmonary artery (RA-Pa) support configurations in a swine model of ischemic aRVF-induced cardiogenic shock. Twenty-six adult German Landrasse swine were randomly assigned to the three study groups. Systemic oxygen delivery was the primary end-point; secondary end-points included hemodynamic parameters and complications. Systemic oxygen delivery remained stable during support without intergroup differences. Mean arterial pressure showed higher values in the V-Pa group compared with RA-Pa at 2 hours (65 ± 10 vs. 48 ± 8 mm Hg; p = 0.010) and 3 hours (62 ± 9 vs. 47 ± 10 mm Hg; p = 0.042). Mean pulmonary artery pressure was higher after V-A ECMO (20 ± 5 mm Hg) initiation compared with V-Pa (11 ± 5 mm Hg, p = 0.013) or RA-Pa (11 ± 3 mm Hg, p = 0.006) support. During support, the V-A ECMO group exhibited the lowest EtCO2 and highest carotid flow (p = 0.039 and p < 0.001, respectively). Challenges were noted with double-lumen cannulation due to anatomical constraints. Pulmonary artery cannulation-based support was noninferior to V-A ECMO in terms of oxygen delivery, with lower pulmonary pressures and preserved transpulmonary flow. Femoral vein-to-pulmonary artery configuration showed favorable short-term hemodynamics and easier cannulation compared with RA-Pa."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1097/MAT.0000000000002847",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063495/",
+   "url": "https://doi.org/10.1097/MAT.0000000000002847",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43063493",
+   "title": "Limited Discrimination of Risk Scores for Right Ventricular Failure After Left Ventricular Assist Device Implantation",
+   "authors": [
+    "Sakata T",
+    "Hong P",
+    "Shively K",
+    "Dimarakis I",
+    "Pal JD"
+   ],
+   "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+   "journal_abbrev": "ASAIO J",
+   "ta": "ASAIO J",
+   "date": "2026-11-20",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "",
+     "text": "Right ventricular failure (RVF) remains a major complication after left ventricular assist device (LVAD) implantation and is associated with increased morbidity and mortality. Multiple preoperative risk scores and hemodynamic parameters have been proposed to predict RVF; however, their generalizability remains uncertain. We performed a retrospective single-center study of 331 patients undergoing centrifugal-flow LVAD implantation between 2011 and 2025, excluding axial-flow devices. Right ventricular failure, defined by Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS) criteria, occurred in 105 patients (31.7%). We evaluated established hemodynamic parameters and published risk scores using logistic regression, standalone receiver operating characteristic analysis, calibration assessment, and sensitivity analyses. Although several risk scores, including European Registry for Patients with Mechanical Circulatory Support (EUROMACS), Utah, and STOP-RVF, were associated with RVF, their discriminative performance was modest, with area under the curve values around 0.70. Discrimination remained modest in the HeartMate 3 subgroup and when postoperative right-sided mechanical circulatory support requirement was used as a more objective endpoint. Calibration analyses showed that published risk strata did not consistently reproduce original absolute event rates, and the incremental improvement beyond preoperative models for predicting a dynamic, institution-dependent complication. Center-specific risk awareness and proactive perioperative management strategies may better mitigate RVF risk."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1097/MAT.0000000000002900",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063493/",
+   "url": "https://doi.org/10.1097/MAT.0000000000002900",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43062394",
+   "title": "Mechanical Tricuspid Valve Thrombosis Treated With Ultrasound-Assisted Catheter-Directed Thrombolysis",
+   "authors": [
+    "Stock J",
+    "Disney L",
+    "Schenk A",
+    "Gurley J"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-19",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Mechanical tricuspid valves are remarkably susceptible to acute mechanical valve thrombosis (MVT). Current guidelines suggest reoperation or systemic thrombolysis for left-sided MVT. These treatments carry substantial operative and bleeding risks, limiting their application. A better nonsurgical treatment for MVT is needed."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "Six patients with suspected acute tricuspid MVT were treated with ultrasound-assisted catheter-directed thrombolysis (USCDT). Improvement in symptoms, leaflet mobility, and tricuspid regurgitation severity occurred in 5 of 6 cases with no observed complications. WHY BEYOND THE GUIDELINES?: Tricuspid MVT is not addressed in current guidelines because of a paucity of available data."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "USCDT represents a novel treatment alternative for tricuspid MVT. Direct contact between the USCDT catheter and the mechanical valve may enhance alteplase activity and thrombus dispersion."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "USCDT may represent an alternative to contemporary treatments for tricuspid MVT and warrants further investigation."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111097",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43062394/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111097",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43070871",
+   "title": "Transcatheter Tricuspid Valve Replacement in a 9-Year-Old Boy Using a 48-mm Self-Expanding Transcatheter Bioprosthesis",
+   "authors": [
+    "Rajkumar C",
+    "Berman D",
+    "Nageotte S",
+    "Patel D",
+    "Hurd CW",
+    "Menda J",
+    "Thornton G",
+    "Nakamura M",
+    "Makar M",
+    "Zahn E",
+    "Makkar R"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-13",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "OBJECTIVE",
+     "text": "A 9-year-old boy with hypoplastic left ventricle developed severe tricuspid regurgitation and symptomatic right heart failure after complex biventricular conversion. Given 4 prior sternotomies, transcatheter tricuspid valve replacement (TTVR) was considered. Computed tomography demonstrated severe septal leaflet tethering and posterior leaflet-papillary muscle continuity, limiting leaflet-dependent devices. Our objective was deployment of a self-expanding Intrepid valve that anchors without leaflet capture."
+    },
+    {
+     "label": "KEY STEPS",
+     "text": "A 48-mm Intrepid valve was implanted transfemorally through a 35-F sheath under transesophageal echocardiographic and fluoroscopic guidance, achieving stable positioning and excellent tricuspid regurgitation reduction."
+    },
+    {
+     "label": "POTENTIAL PITFALLS",
+     "text": "Abnormal anatomy may compromise leaflet-dependent stability. Large-bore venous access requires careful planning in pediatric patients, and post-TTVR anticoagulation is necessary to reduce prosthetic valve thrombosis risk."
+    },
+    {
+     "label": "TAKE-HOME MESSAGES",
+     "text": "In selected pediatric patients at high surgical risk, TTVR may provide an effective alternative therapy. When leaflet anatomy is unfavorable, devices that anchor independently of leaflet capture may offer a practical solution."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111369",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070871/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111369",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43095279",
+   "title": "Sotatercept in pulmonary arterial hypertension with suspected venous involvement: a case report",
+   "authors": [
+    "Fujisaki S",
+    "Takano R",
+    "Hayashi H",
+    "Ogo T"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-11",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "The use of sotatercept in patients with pulmonary arterial hypertension (PAH) and suspected pulmonary venous involvement is limited."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 43-year-old man with PAH, marked hypoxaemia, severely reduced diffusing capacity for carbon monoxide, and a sister with autopsy-proven occlusive pulmonary venous disease deteriorated despite three-drug combination therapy. Whole-genome sequencing identified no pathogenic EIF2AK4 variants, and no pathogenic or likely pathogenic variants were found in 18 other PAH-associated genes, including BMPR2. After 3 months of sotatercept treatment, clinical (functional class III to II), haemodynamic (pulmonary vascular resistance 11.6 to 8.1 Wood units), and right ventricular functional improvement (ejection fraction 25.0% to 37.6% on cardiac magnetic resonance imaging) were observed without pulmonary oedema or worsening hypoxaemia."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Sotatercept may have potential clinical relevance and a tolerable safety profile in patients with PAH and suspected pulmonary venous involvement. Careful monitoring of oxygenation and pulmonary oedema remains essential, and further evidence is needed to define the role of this treatment in this challenging population."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag840",
+   "pmc": "PMC13797249",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095279/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag840",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43095280",
+   "title": "Dual obstructive physiology in Takotsubo cardiomyopathy: cardiac tamponade exacerbating systolic anterior motion-mediated left ventricular outflow tract obstruction-a case report",
+   "authors": [
+    "Heanue SJ",
+    "Xia B",
+    "Liu H",
+    "Fahy L",
+    "Chou B"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-10",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Takotsubo cardiomyopathy may be complicated by dynamic left ventricular outflow tract obstruction (LVOTO) due to basal hyperkinesis in response to apical akinesis. In turn, this can lead to complications such as mitral regurgitation (MR) and systolic anterior motion (SAM) of the mitral valve, resulting in hypotension and potentially cardiogenic shock."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 72-year-old woman presented with chest pain and ST elevation. Coronary angiography was normal, with left ventriculography and subsequent transthoracic echocardiography (TTE) confirming a diagnosis of Takotsubo cardiomyopathy. She developed refractory cardiogenic shock from severe LVOTO with SAM and MR, unresponsive to traditional therapies such as intravenous fluids, beta-blockade, and vasopressors. Serial TTE demonstrated progression of a small pericardial effusion with evolving tamponade physiology. Emergent pericardiocentesis resulted in immediate improvement of the left ventricular outflow tract (LVOT) gradient, elimination of valvular pathologies, and rapid haemodynamic recovery."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "LVOT obstruction due to hyperdynamic basal contraction and mitral SAM is a known cause of cardiogenic shock, particularly in cardiomyopathies where apical ballooning is a feature. Progressive pericardial effusion and cardiac tamponade may critically exacerbate LVOTO, MR, and mitral SAM through preload reduction and render standard LVOT-directed therapy ineffective. As early recognition and treatment of tamponade physiology can be lifesaving, failure to respond to LVOT-directed therapy should warrant urgent repeat echocardiography."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag849",
+   "pmc": "PMC13797259",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095280/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag849",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43068161",
+   "title": "Diagnostic yield of genetic testing in heart transplant recipients with non-ischemic cardiomyopathy: A single-center cohort study",
+   "authors": [
+    "Bertelli M",
+    "Shokravi A",
+    "Christian S",
+    "Mahon N",
+    "Archer L",
+    "Fine N",
+    "Howlett J",
+    "Lyons K",
+    "Ballantyne B",
+    "Sharma N",
+    "Marcadier J",
+    "McBride KL",
+    "Harper L",
+    "Miller RJH",
+    "Kiamanesh O"
+   ],
+   "journal": "JHLT open",
+   "journal_abbrev": "JHLT Open",
+   "ta": "JHLT Open",
+   "date": "2026-11-06",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Cardiomyopathy genetic testing is recommended for patients with non-ischemic cardiomyopathy (NICM) but is inconsistently applied once a patient has reached end-stage disease and undergone heart transplantation. Whether a transplant program can systematically test its existing NICM cohort and what completion rate is achievable when testing is operationalized in the clinic rather than offered ad hoc is not well characterized."
+    },
+    {
+     "label": "METHODS",
+     "text": "We studied all 73 adults followed in the Southern Alberta Transplant Program after transplantation for NICM: dilated (DCM), non-dilated left ventricular (NDLVC), restrictive, or hypertrophic (HCM). Cardiomyopathy genetic testing was offered as a program-wide initiative and performed in adulthood using clinically validated multigene panels. Variants were classified by ACMG/AMP criteria; pathogenic or likely pathogenic (P/LP) variants interpreted as explanatory for the recipient's cardiomyopathy were counted as diagnostic. Single heterozygous P/LP variants in autosomal recessive genes were interpreted as carrier findings and not counted toward yield. Yields are reported with Wilson 95% confidence intervals (CIs); the childhood- versus adult-transplant comparison was tested with Fisher's exact test."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Of 71 eligible patients, 27 (38.0%) had a genetic-testing result before the 12-month operational window; of the 44 offered testing during the window, 37 completed it (84.1%), raising cohort testing coverage to 90.1% (64/71). A diagnostic pathogenic or likely pathogenic (P/LP) variant was identified in 28 of 64 tested patients (43.8%; 95% CI 32.3%-55.9%); a sensitivity analysis restricted to the 36 patients tested with the comprehensive Invitae 121-gene panel yielded an indistinguishable 38.9% (14/36; 95% CI 24.8%-55.1%), with no evidence that variation in panel breadth materially biased the overall estimate. Two additional patients carried a single heterozygous P/LP variant in an autosomal recessive gene (carrier findings, not counted). Yield was higher in patients transplanted in childhood (10/14, 71.4%) than in adulthood (18/50, 36.0%; Fisher's exact P = 0.031). TTN was the most frequent gene (7 P/LP), followed by LMNA, PKP2, and MYH7 (3 each)."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "A 12-month program-wide initiative raised cardiomyopathy genetic testing coverage in an existing NICM heart transplant cohort from 38% to 90% by embedding testing in routine transplant clinic visits. The diagnostic yield among tested patients (43.8%) was consistent with published estimates and similar when restricted to the most comprehensive panel, with markedly higher yield in patients transplanted in childhood. These findings provide a reproducible operational template for transplant programs seeking to close the implementation gap in cardiomyopathy genetic evaluation and to enable cascade testing of at-risk relatives."
+    }
+   ],
+   "conclusion": "A 12-month program-wide initiative raised cardiomyopathy genetic testing coverage in an existing NICM heart transplant cohort from 38% to 90% by embedding testing in routine transplant clinic visits. The diagnostic yield among tested patients (43.8%) was consistent with published estimates and similar when restricted to the most comprehensive panel, with markedly higher yield in patients transplanted in childhood. These findings provide a reproducible operational template for transplant programs seeking to close the implementation gap in cardiomyopathy genetic evaluation and to enable cascade testing of at-risk relatives.",
+   "doi": "10.1016/j.jhlto.2026.100725",
+   "pmc": "PMC13788804",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43068161/",
+   "url": "https://doi.org/10.1016/j.jhlto.2026.100725",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43065938",
+   "title": "Complex management of ATTRv amyloidosis (Glu89Gln) amid haemodynamic instability and heart failure: a case report",
+   "authors": [
+    "Sciacca P",
+    "Faro D",
+    "Losi V",
+    "Capodanno D",
+    "Monte IP"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-06",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "ATTRv with the NM_000371.4:c.325G>C, p.Glu109Gln (legacy p.Glu89Gln) mutation, reported in endemic clusters in southern Italy and Bulgaria, is characterized by an aggressive mixed cardio-neurological phenotype. The disease typically manifests around the age of 50. The burden of altered haemodynamics and orthostatic intolerance superimposed on the restrictive cardiomyopathy makes advanced heart failure (HF) management a significant clinical challenge."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "We present the case of a 59-year-old male with ATTRv amyloidosis carrying the Glu89Gln mutation, alongside Type 2 diabetes and macroalbuminuric nephropathy. Despite a genetic diagnosis in 2006 following carpal tunnel syndrome and mild orthostatic hypotension, cardiac involvement was only formally recognized in 2022. Following a period of stability on tafamidis 61 mg/day, he developed weight gain, refractory right-sided acute HF, and cardio-renal syndrome in 2026. Severe diuretic resistance and hypotension (<95 mmHg) occurred. A large-volume paracentesis (>10 l) was performed and plausibly contributed to the marked improvement in renal function and the restoration of diuretic responsiveness. As a net result of the overall strategy, a 32-kg net weight reduction was achieved over 13 days, leading to discharge in NYHA class II and an improvement in the Six-Minute Walk Test (6MWT) distance."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Managing congestion in patients with restrictive physiology and susceptibility to hypotension requires multidisciplinary approaches, including unconventional ones, such as evacuative paracentesis. Furthermore, adapting disease-modifying therapies requires careful shared decision-making, balancing the potential benefits of gene silencers with real-world patient preferences and clinical stability."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag814",
+   "pmc": "PMC13785899",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065938/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag814",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43065933",
+   "title": "Fulminant myocarditis across the aetiological spectrum in the era of mechanical circulatory support: a case series",
+   "authors": [
+    "König L",
+    "Wörgötter K",
+    "Bernreiter T",
+    "Klingel K",
+    "Riebandt J",
+    "Bretl KR",
+    "Lanzerstorfer J",
+    "Grübler MR"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-06",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Fulminant myocarditis is a rare but life-threatening condition characterized by acute haemodynamic compromise, malignant arrhythmias, and rapid progression to cardiogenic shock. Although the clinical presentation is often uniform, the underlying aetiology is heterogeneous and carries important implications for diagnosis, therapeutic strategy, and prognosis."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "We report four patients presenting within months of each other with fulminant myocarditis of distinct aetiologies: eosinophilic myocarditis associated with amoxicillin-clavulanate in a 71-year-old male; a suspected lymphocytic myocarditis in a 25-year-old male with a posthumously identified pathogenic FLNC (Filamin C) variant; lymphocytic myocarditis with extensive replacement fibrosis in a 68-year-old male; and virus-negative lymphocytic myocarditis in a 61-year-old female. All four required mechanical circulatory support. Outcomes ranged from death in two patients to survival with durable left ventricular assist device (LVAD) support in one and complete functional recovery after transient support in another."
+    },
+    {
+     "label": "CONCLUSION",
+     "text": "Endomyocardial biopsy was pivotal in establishing the underlying diagnosis and guiding management. Cardiac magnetic resonance imaging (CMR) showed supporting findings but was most valuable raising the possibility of alternative diagnosis such as arrhythmogenic cardiomyopathy. These cases illustrate that fulminant myocarditis represents a haemodynamic phenotype rather than a final diagnosis. Systematic histological, virological, and-where clinically indicated-genetic evaluation is essential, as aetiology informs management but does not reliably predict outcome in mechanical circulatory support (MCS)-dependent presentations."
+    }
+   ],
+   "conclusion": "Endomyocardial biopsy was pivotal in establishing the underlying diagnosis and guiding management. Cardiac magnetic resonance imaging (CMR) showed supporting findings but was most valuable raising the possibility of alternative diagnosis such as arrhythmogenic cardiomyopathy. These cases illustrate that fulminant myocarditis represents a haemodynamic phenotype rather than a final diagnosis. Systematic histological, virological, and-where clinically indicated-genetic evaluation is essential, as aetiology informs management but does not reliably predict outcome in mechanical circulatory support (MCS)-dependent presentations.",
+   "doi": "10.1093/ehjcr/ytag820",
+   "pmc": "PMC13785896",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065933/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag820",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43071375",
+   "title": "National Dissemination of a Decision Aid for Patients Considering a Left Ventricular Assist Device",
+   "authors": [
+    "Matlock DD",
+    "Thompson JS",
+    "Allen LA",
+    "Glasgow RE",
+    "Wynia MK",
+    "Mosley BS",
+    "Tietbohl CK",
+    "Scherer L",
+    "McIlvennan CK"
+   ],
+   "journal": "JAMA network open",
+   "journal_abbrev": "JAMA Netw Open",
+   "ta": "JAMA Netw Open",
+   "date": "2026-11-02",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "IMPORTANCE",
+     "text": "For patients with end-stage heart failure considering a left ventricular assist device (LVAD), shared decision-making is encouraged by guidelines and the Centers for Medicare & Medicaid Services (CMS). Patients, caregivers, and clinicians have reported suboptimal guidance and support for LVAD decision-making, including a lack of unbiased educational materials."
+    },
+    {
+     "label": "OBJECTIVE",
+     "text": "To disseminate a tested patient decision aid (PDA) as standard practice in all LVAD programs across the US."
+    },
+    {
+     "label": "DESIGN, SETTING, AND PARTICIPANTS",
+     "text": "From 2018 to 2023, this I-DECIDE-LVAD initiative built a network of contacts across US CMS-certified LVAD programs to promote adoption and support implementation of the PDA to clinicians at LVAD programs and their patients considering an LVAD. Responses to all implementation assessments were collected and data analysis was conducted in October 2022 and mostly completed by January 2024."
+    },
+    {
+     "label": "INTERVENTIONS",
+     "text": "An LVAD PDA, consisting of a pamphlet and video, that was previously shown to improve decision quality."
+    },
+    {
+     "label": "MAIN OUTCOMES AND MEASURES",
+     "text": "This mixed-methods evaluation was guided by the RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance) framework, where an implementation assessment was collected among clinicians every 4 to 6 months; a subset of clinicians was interviewed and a subset of patients surveyed for a more comprehensive understanding of outcomes."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Of 175 certified LVAD programs, all were successfully contacted and 169 (96.6%) adopted the PDAs. Over 4 years of follow-up, 156 programs responded to the implementation assessments; 123 (70.3%) reported active use, including 80 (45.7%) using the PDA as standard of care and 23 (13.1%) using it frequently. Overall, 7132 patients received the PDA, representing 83.2% of eligible patients at participating programs. Of the 205 patients who completed a survey across 16 programs (mean [SD] age, 62 [13] years; 50 females [24.4%]), 127 (62.0%) reported receiving the pamphlet and 79 (38.5%) received the video. Facilitators to PDA implementation included flexibility in how it could be used, positive opinions of and experiences with the PDA, and ease of integration within existing program structure. Common barriers included limited implementation capacity or preference for existing materials."
+    },
+    {
+     "label": "CONCLUSIONS AND RELEVANCE",
+     "text": "This nationwide quality improvement study of LVAD medical decision-making found that 70.3% of all LVAD programs in the US reported using a proven effective PDA with their patients. This initiative suggests that this is one of the broadest and most successful implementation efforts of a PDA."
+    }
+   ],
+   "conclusion": "This nationwide quality improvement study of LVAD medical decision-making found that 70.3% of all LVAD programs in the US reported using a proven effective PDA with their patients. This initiative suggests that this is one of the broadest and most successful implementation efforts of a PDA.",
+   "doi": "10.1001/jamanetworkopen.2026.45699",
+   "pmc": "PMC13794061",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071375/",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.45699",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "General medical"
+  },
+  {
+   "pmid": "43060965",
+   "title": "Normothermic regional perfusion versus direct procurement with machine perfusion in donation after circulatory death heart transplantation: A systematic review and meta-analysis of early and mid-term outcomes",
+   "authors": [
+    "AlGhamdi M",
+    "Lebreton G",
+    "Rao V",
+    "Cusimano RJ",
+    "Leprince P"
+   ],
+   "journal": "JHLT open",
+   "journal_abbrev": "JHLT Open",
+   "ta": "JHLT Open",
+   "date": "2026-10-30",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Donation after circulatory death (DCD) is now a major source of cardiac allografts, yet the two dominant recovery strategies, thoraco-abdominal normothermic regional perfusion (NRP) and direct procurement with ex-situ machine perfusion (DP-MP), have never been compared in a dedicated meta-analysis of clinically meaningful endpoints."
+    },
+    {
+     "label": "METHODS",
+     "text": "We systematically searched five databases and grey literature for studies comparing NRP with DP-MP in adult DCD heart transplantation. Random-effects models generated pooled risk ratios (RR), with Hartung-Knapp sensitivity analyses. The primary outcome was severe primary graft dysfunction (PGD); secondary outcomes were survival, treated acute cellular rejection (ACR) and cost. Risk of bias and certainty were assessed with ROBINS-I and GRADE."
+    },
+    {
+     "label": "RESULTS",
+     "text": "Eight studies were included, three pooled for PGD. NRP was associated with less severe PGD (RR 0.38, 95% CI 0.25-0.60; n = 728; Hartung-Knapp 0.25-0.59) and less treated ACR at one year (RR 0.51, 95% CI 0.35-0.76). Overlapping registry cohorts were de-duplicated; 30-day survival did not differ (RR 1.02, 95% CI 1.00-1.04; P = 0.073), and a borderline one-year difference (RR 1.04, 95% CI 1.00-1.08) was not robust to registry substitution, indicating equivalent survival. Cost favoured NRP; certainty was moderate."
+    },
+    {
+     "label": "CONCLUSIONS",
+     "text": "In adult DCD heart transplantation, thoraco-abdominal NRP was associated with lower rates of severe PGD and treated acute cellular rejection, at equivalent survival and lower cost. As the data are observational, these estimates remain imprecise and subject to residual confounding. NRP is reasonable where feasible, and adequately powered trials with standardised adjudication of graft dysfunction are needed."
+    }
+   ],
+   "conclusion": "In adult DCD heart transplantation, thoraco-abdominal NRP was associated with lower rates of severe PGD and treated acute cellular rejection, at equivalent survival and lower cost. As the data are observational, these estimates remain imprecise and subject to residual confounding. NRP is reasonable where feasible, and adequately powered trials with standardised adjudication of graft dysfunction are needed.",
+   "doi": "10.1016/j.jhlto.2026.100718",
+   "pmc": "PMC13783774",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43060965/",
+   "url": "https://doi.org/10.1016/j.jhlto.2026.100718",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43080791",
+   "title": "Catastrophic in-stent thrombosis with antiphospholipid syndrome: a case report",
+   "authors": [
+    "Nguyen TT",
+    "Phan TH",
+    "Chau STD",
+    "Nguyen AD"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-10-27",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "In-stent thrombosis despite morphologically optimal stents remains a diagnostic challenge. Antiphospholipid syndrome (APS) is a rare cause that drives thrombosis via tissue factor-mediated coagulation-a pathway not addressed by dual antiplatelet therapy."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 51-year-old male with cardiovascular risk factors underwent primary percutaneous coronary intervention for anterior ST-elevation myocardial infarction. Ten days later, he developed refractory ventricular fibrillation requiring extracorporeal cardiopulmonary resuscitation with veno-arterial extracorporeal membrane oxygenation and intra-aortic balloon pump support. Emergency angiography confirmed complete in-stent thrombosis; intravascular ultrasound excluded a mechanical cause. The intensive care course revealed a triad of red flags: unexplained in-stent thrombosis, recurrent extracorporeal circuit clotting despite stepwise heparin escalation, and arterial and venous thrombosis on full anticoagulation. This prompted antiphospholipid antibody testing, which showed persistent moderate-to-high titre anti-cardiolipin IgM-a profile within the 'controversial' zone of the 2023 ACR/EULAR classification criteria. The patient was managed as APS with intensified triple therapy, later transitioning from heparin to a vitamin K antagonist, and was discharged on Day 27 with no events at 3-month follow-up."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Antiphospholipid syndrome should be considered in unexplained in-stent thrombosis even when laboratory criteria are not strictly met. The triad of unexplained in-stent thrombosis, anticoagulation refractory circuit clotting, and incident venous thrombosis is a clinically actionable pattern warranting empiric APS-directed management."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag790",
+   "pmc": "PMC13795262",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43080791/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag790",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43076814",
+   "title": "Atrial Septal Defect Repair After Reverse Potts Shunt for Severe Pulmonary Hypertension",
+   "authors": [
+    "Miller PC",
+    "Miller JR",
+    "Balzer DT",
+    "Grady RM",
+    "Eghtesady P"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-10-19",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [
+    {
+     "label": "BACKGROUND",
+     "text": "Atrial septal defect (ASD) closure in the presence of a functioning reverse Potts shunt (rPS) for pulmonary hypertension (PH) may reduce global hypoxemia without sacrificing right ventricular pressure unloading. However, intracardiac operation after rPS has not previously been reported to guide operative decision-making in this scenario."
+    },
+    {
+     "label": "CASE SUMMARY",
+     "text": "A 13-year-old girl with a history of rPS for PH presented for ASD closure because of hypoxia and exercise intolerance. To safely close the ASD on cardiopulmonary bypass, the rPS was occluded with a catheter-based balloon."
+    },
+    {
+     "label": "DISCUSSION",
+     "text": "Coexisting ASD and rPS in a patient with severe PH presents a complex hemodynamic scenario. Furthermore, intracardiac operation in the setting of patent rPS and PH presents certain technical challenges. Multidisciplinary care is necessary for safe and effective management of coexisting ASD and rPS."
+    },
+    {
+     "label": "TAKE-HOME MESSAGE",
+     "text": "Balloon occlusion of reverse Potts shunt can be safely performed in select patients to expand feasibility for repair of intracardiac defects in PH."
+    }
+   ],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.110835",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43076814/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.110835",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Case report",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43072907",
+   "title": "Tricuspid Edge-to-Edge Repair Beyond Leaflet Approximation: The Emerging Concept of Indirect Annuloplasty",
+   "authors": [
+    "von Stein J",
+    "Praz F",
+    "Granada JF"
+   ],
+   "journal": "JACC. Cardiovascular interventions",
+   "journal_abbrev": "JACC Cardiovasc Interv",
+   "ta": "JACC Cardiovasc Interv",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jcin.2026.07.026",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072907/",
+   "url": "https://doi.org/10.1016/j.jcin.2026.07.026",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Review",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43098444",
+   "title": "Expert Guidance on the Management of Patients After LVAD Weaning: Integrating Evidence and Clinical Perspectives. On Behalf of the VAD Wean Recovery Network",
+   "authors": [
+    "Yuzefpolskaya M",
+    "Birks EJ",
+    "Sheikh FH",
+    "Wald JW",
+    "Caliskan K",
+    "González-Costello J",
+    "MacGowan GA",
+    "Colombo PC",
+    "Mallón DC",
+    "Crespo-Leiro MG",
+    "Fardman A",
+    "Gulati G",
+    "Hammer Y",
+    "Hickey GW",
+    "Kiernan MS",
+    "Kittipibul V",
+    "Perez SM",
+    "Nair A",
+    "Nelson M",
+    "Pisani B",
+    "Ravichandran A",
+    "Russell SD",
+    "Sener YZ",
+    "Shah KB",
+    "Sobol I",
+    "Sokolski M",
+    "Tseliou E",
+    "Vidic A",
+    "Vorovich EE",
+    "Gustafsson F",
+    "Patel SR",
+    "Drakos S",
+    "Agarwal R"
+   ],
+   "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+   "journal_abbrev": "J Heart Lung Transplant",
+   "ta": "J Heart Lung Transplant",
+   "date": "2026-11-26",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.healun.2026.11.011",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098444/",
+   "url": "https://doi.org/10.1016/j.healun.2026.11.011",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43080184",
+   "title": "Reshaping lead-leaflet interaction: annuloplasty-enabled TEER for complex CIED-related tricuspid regurgitation",
+   "authors": [
+    "Jin Q",
+    "Luk NHV",
+    "Zhang X"
+   ],
+   "journal": "European heart journal",
+   "journal_abbrev": "Eur Heart J",
+   "ta": "Eur Heart J",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/eurheartj/ehag865",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43080184/",
+   "url": "https://doi.org/10.1093/eurheartj/ehag865",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43083516",
+   "title": "Renal Dysfunction and Predictors of Improvement in Ventricular Assist Device Recipients, in the CKD-LVAD Registry",
+   "authors": [
+    "Zhao M",
+    "Genuardi MV",
+    "Moss N",
+    "Saeed O",
+    "Shah S",
+    "Kilic A",
+    "Moin D",
+    "Chen J",
+    "Vidula H"
+   ],
+   "journal": "JACC. Heart failure",
+   "journal_abbrev": "JACC Heart Fail",
+   "ta": "JACC Heart Fail",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jchf.2026.103514",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43083516/",
+   "url": "https://doi.org/10.1016/j.jchf.2026.103514",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43083515",
+   "title": "Characteristics and Long-Term Outcomes of Patients With History of Malignancy Undergoing Heart Transplantation",
+   "authors": [
+    "Mazur MM",
+    "Herrmann J",
+    "Meleveedu K",
+    "Carmona Rubio A",
+    "Tang WHW"
+   ],
+   "journal": "JACC. Heart failure",
+   "journal_abbrev": "JACC Heart Fail",
+   "ta": "JACC Heart Fail",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jchf.2026.103513",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43083515/",
+   "url": "https://doi.org/10.1016/j.jchf.2026.103513",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43081657",
+   "title": "Frailty and obesity in contemporary long term mechanical circulatory support: frequently co-existing and additive risk factors",
+   "authors": [
+    "MacGowan GA",
+    "Gonzalez-Fernandez O",
+    "McDiarmid AK"
+   ],
+   "journal": "European heart journal",
+   "journal_abbrev": "Eur Heart J",
+   "ta": "Eur Heart J",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/eurheartj/ehag964",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43081657/",
+   "url": "https://doi.org/10.1093/eurheartj/ehag964",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43072577",
+   "title": "Sotatercept Improves AI Detected Electrocardiographic Signature of Pulmonary Hypertension",
+   "authors": [
+    "Reddy YNV",
+    "Dubrock HM",
+    "Kazui S",
+    "Miranda WR",
+    "Frantz RP",
+    "Borlaug BA"
+   ],
+   "journal": "Chest",
+   "journal_abbrev": "Chest",
+   "ta": "Chest",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.chest.2026.11.017",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072577/",
+   "url": "https://doi.org/10.1016/j.chest.2026.11.017",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Original research",
+   "family": "Respiratory / pulmonary vascular"
+  },
+  {
+   "pmid": "43071823",
+   "title": "Interpreting the Magnitude of Benefit in Transcatheter Tricuspid Repair: Population, Endpoints and Crossover",
+   "authors": [
+    "Nadir A",
+    "Doshi SN"
+   ],
+   "journal": "ESC heart failure",
+   "journal_abbrev": "ESC Heart Fail",
+   "ta": "ESC Heart Fail",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/eschf/xvag272",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071823/",
+   "url": "https://doi.org/10.1093/eschf/xvag272",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43067355",
+   "title": "Biventricular support without blood contact: an early assessment of soft robotic mechanical circulatory support",
+   "authors": [
+    "Klein L",
+    "Leprince P"
+   ],
+   "journal": "European journal of heart failure",
+   "journal_abbrev": "Eur J Heart Fail",
+   "ta": "Eur J Heart Fail",
+   "date": "2026-11-22",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/ejhf/xuag340",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067355/",
+   "url": "https://doi.org/10.1093/ejhf/xuag340",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43066968",
+   "title": "Assessment of the optimal echocardiographic profile on left ventricular assist device support: an outcome-driven definition",
+   "authors": [
+    "Gallone G",
+    "Guzman-Bofarull J",
+    "Ravetti E",
+    "Cacioli G",
+    "Llongueras-Espí P",
+    "Morley-Smith A",
+    "Díez-López C",
+    "Spitaleri A",
+    "Soliman Aboumarie H",
+    "Vandenbriele C",
+    "Luzi G",
+    "Loforte A",
+    "González-Costello J",
+    "Riesgo Gil F"
+   ],
+   "journal": "European heart journal. Cardiovascular Imaging",
+   "journal_abbrev": "Eur Heart J Cardiovasc Imaging",
+   "ta": "Eur Heart J Cardiovasc Imaging",
+   "date": "2026-11-21",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/ehjci/jeag327",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43066968/",
+   "url": "https://doi.org/10.1093/ehjci/jeag327",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Original research",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43064529",
+   "title": "Right ventricular-pulmonary artery coupling and long-term outcomes in heart failure with preserved ejection fraction",
+   "authors": [
+    "Dagan M",
+    "Vasudevan S",
+    "Lyras Musgrave G",
+    "Beale AL",
+    "Bloom JE",
+    "Mariani J",
+    "Chan W",
+    "Kaye DM",
+    "Nanayakkara S"
+   ],
+   "journal": "Heart (British Cardiac Society)",
+   "journal_abbrev": "Heart",
+   "ta": "Heart",
+   "date": "2026-11-20",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1136/heartjnl-2026-328505",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43064529/",
+   "url": "https://doi.org/10.1136/heartjnl-2026-328505",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Original research",
+   "family": "Other cardiology & physiology"
+  },
+  {
+   "pmid": "43095278",
+   "title": "Single-conduit subclavian transcatheter aortic valve replacement and Impella CP delivery in cardiogenic shock",
+   "authors": [
+    "Otake R",
+    "Horita R",
+    "Hachinohe D"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-16",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag863",
+   "pmc": "PMC13797265",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095278/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag863",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43062400",
+   "title": "Right-Ventricular Damage and Clinical Outcomes in Patients With Severe Tricuspid Regurgitation",
+   "authors": [
+    "Brunner S",
+    "Kalbacher D",
+    "Wild MG",
+    "Kessler M",
+    "Rudolph V",
+    "Lurz P",
+    "Thiele H",
+    "Hausleiter J",
+    "Stolz L",
+    "Toggweiler S",
+    "EuroTR Investigators"
+   ],
+   "journal": "JACC. Cardiovascular interventions",
+   "journal_abbrev": "JACC Cardiovasc Interv",
+   "ta": "JACC Cardiovasc Interv",
+   "date": "2026-11-14",
+   "pub_types": [
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jcin.2026.09.024",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43062400/",
+   "url": "https://doi.org/10.1016/j.jcin.2026.09.024",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Original research",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43094925",
+   "title": "Mobile right-heart thrombus traversing the tricuspid valve in acute pulmonary embolism",
+   "authors": [
+    "Tabucanon E",
+    "Arja RD",
+    "Rados EN",
+    "Dela Rosa JP"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-13",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag853",
+   "pmc": "PMC13797270",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094925/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag853",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43069972",
+   "title": "Pushing the limits: wide-bore 0.55-T cardiac MRI in extreme obesity at a BMI of 80 kg/m2",
+   "authors": [
+    "Luetkens JA",
+    "Salam B",
+    "Isaak A"
+   ],
+   "journal": "European heart journal. Imaging methods and practice",
+   "journal_abbrev": "Eur Heart J Imaging Methods Pract",
+   "ta": "Eur Heart J Imaging Methods Pract",
+   "date": "2026-11-12",
+   "pub_types": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/ehjimp/qyag192",
+   "pmc": "PMC13789480",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43069972/",
+   "url": "https://doi.org/10.1093/ehjimp/qyag192",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Case report",
+   "family": "European Heart Journal / ESC"
+  },
+  {
+   "pmid": "43096737",
+   "title": "Two Decades on a Pump: What the Longest LVAD Survivor Teaches Us",
+   "authors": [
+    "Divya A",
+    "Dalal N"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111222",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096737/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111222",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096728",
+   "title": "Mitral TEER in Advanced Heart Failure: Navigating the Gray Zone",
+   "authors": [
+    "Dogosh AA",
+    "Shuvy M"
+   ],
+   "journal": "JACC. Case reports",
+   "journal_abbrev": "JACC Case Rep",
+   "ta": "JACC Case Rep",
+   "date": "2026-11-25",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jaccas.2026.111226",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096728/",
+   "url": "https://doi.org/10.1016/j.jaccas.2026.111226",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43078225",
+   "title": "Upgrading Mission Control: Integrating cell-free DNA and donor-specific antibodies in heart transplant rejection",
+   "authors": [
+    "Patel S",
+    "Agbor-Enoh S"
+   ],
+   "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+   "journal_abbrev": "J Heart Lung Transplant",
+   "ta": "J Heart Lung Transplant",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.healun.2026.11.016",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078225/",
+   "url": "https://doi.org/10.1016/j.healun.2026.11.016",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Editorial",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43071798",
+   "title": "Sotatercept in Action: Rethinking Right Ventricular Physiology?",
+   "authors": [
+    "Tedford RJ",
+    "Maron BA"
+   ],
+   "journal": "Circulation",
+   "journal_abbrev": "Circulation",
+   "ta": "Circulation",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1161/CIRCULATIONAHA.126.083954",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071798/",
+   "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.083954",
+   "topics": [
+    "ph"
+   ],
+   "kind": "Editorial",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43072353",
+   "title": "Cell Therapy and Immune Regulation in HFpEF",
+   "authors": [
+    "Boeckel JN"
+   ],
+   "journal": "JACC. Basic to translational science",
+   "journal_abbrev": "JACC Basic Transl Sci",
+   "ta": "JACC Basic Transl Sci",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jacbts.2026.101752",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072353/",
+   "url": "https://doi.org/10.1016/j.jacbts.2026.101752",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43072904",
+   "title": "Avenging Tricuspid Regurgitation Outcomes: Redefining the Endgame",
+   "authors": [
+    "Zahr F",
+    "Chadderdon S"
+   ],
+   "journal": "JACC. Cardiovascular interventions",
+   "journal_abbrev": "JACC Cardiovasc Interv",
+   "ta": "JACC Cardiovasc Interv",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jcin.2026.08.033",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072904/",
+   "url": "https://doi.org/10.1016/j.jcin.2026.08.033",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43063599",
+   "title": "New Insights About Myocardial Cell Populations and the Role of HDACs in HFpEF",
+   "authors": [
+    "Piesse SIM",
+    "James SL",
+    "Mellor KM"
+   ],
+   "journal": "JACC. Basic to translational science",
+   "journal_abbrev": "JACC Basic Transl Sci",
+   "ta": "JACC Basic Transl Sci",
+   "date": "2026-11-20",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jacbts.2026.101757",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063599/",
+   "url": "https://doi.org/10.1016/j.jacbts.2026.101757",
+   "topics": [
+    "hfpef"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096753",
+   "title": "Transcatheter Tricuspid Valve Annuloplasty: Lessons From a Discontinued Technology",
+   "authors": [
+    "Kolte D"
+   ],
+   "journal": "JACC. Advances",
+   "journal_abbrev": "JACC Adv",
+   "ta": "JACC Adv",
+   "date": "2026-11",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jacadv.2026.103345",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096753/",
+   "url": "https://doi.org/10.1016/j.jacadv.2026.103345",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096756",
+   "title": "The Right Ventricle Matters: Refining Risk Assessment Before Durable LVAD Implantation",
+   "authors": [
+    "Holcman K",
+    "Brahmbhatt DH"
+   ],
+   "journal": "JACC. Advances",
+   "journal_abbrev": "JACC Adv",
+   "ta": "JACC Adv",
+   "date": "2026-11",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jacadv.2026.103374",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096756/",
+   "url": "https://doi.org/10.1016/j.jacadv.2026.103374",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43096743",
+   "title": "Temporal Trends in Cardiogenic Shock Outcomes From Observational Registries",
+   "authors": [
+    "Tomey MI",
+    "Wasfy JH"
+   ],
+   "journal": "JACC. Advances",
+   "journal_abbrev": "JACC Adv",
+   "ta": "JACC Adv",
+   "date": "2026-11",
+   "pub_types": [
+    "Editorial"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1016/j.jacadv.2026.103356",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096743/",
+   "url": "https://doi.org/10.1016/j.jacadv.2026.103356",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Editorial",
+   "family": "JACC"
+  },
+  {
+   "pmid": "43077445",
+   "title": "Letter to the Editor: Revascularization Timing on Venoarterial Extracorporeal Membrane Oxygenation",
+   "authors": [
+    "Ozdemir O",
+    "Kuzucu O",
+    "Hazir KE"
+   ],
+   "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+   "journal_abbrev": "ASAIO J",
+   "ta": "ASAIO J",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Letter"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1097/MAT.0000000000002914",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077445/",
+   "url": "https://doi.org/10.1097/MAT.0000000000002914",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Letter",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43077444",
+   "title": "Response to the Letter to the Editor: Revascularization Timing on Venoarterial Extracorporeal Membrane Oxygenation: Building on an Important Signal",
+   "authors": [
+    "Kim O",
+    "Cha JH",
+    "Lee SH",
+    "Choi KH"
+   ],
+   "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+   "journal_abbrev": "ASAIO J",
+   "ta": "ASAIO J",
+   "date": "2026-11-24",
+   "pub_types": [
+    "Letter"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1097/MAT.0000000000002915",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077444/",
+   "url": "https://doi.org/10.1097/MAT.0000000000002915",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Letter",
+   "family": "Heart failure, transplant & MCS"
+  },
+  {
+   "pmid": "43071799",
+   "title": "Cardiac Mechanical Unloading Promotes Cardiomyocyte Proliferation Associated With Reduced Piezo1 Activity",
+   "authors": [
+    "Yang X",
+    "Dai G",
+    "Jin J",
+    "Tong Q",
+    "Fu W"
+   ],
+   "journal": "Circulation",
+   "journal_abbrev": "Circulation",
+   "ta": "Circulation",
+   "date": "2026-11-23",
+   "pub_types": [
+    "Letter"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1161/CIRCULATIONAHA.126.079646",
+   "pmc": "",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071799/",
+   "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.079646",
+   "topics": [
+    "advhf"
+   ],
+   "kind": "Letter",
+   "family": "Circulation / AHA"
+  },
+  {
+   "pmid": "43081114",
+   "title": "The importance of right atrial failure in understanding functional tricuspid regurgitation",
+   "authors": [
+    "Romanescu P",
+    "Chacko S"
+   ],
+   "journal": "European heart journal. Case reports",
+   "journal_abbrev": "Eur Heart J Case Rep",
+   "ta": "Eur Heart J Case Rep",
+   "date": "2026-11-04",
+   "pub_types": [
+    "Letter"
+   ],
+   "abstract": [],
+   "conclusion": "",
+   "doi": "10.1093/ehjcr/ytag825",
+   "pmc": "PMC13795257",
+   "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43081114/",
+   "url": "https://doi.org/10.1093/ehjcr/ytag825",
+   "topics": [
+    "tr"
+   ],
+   "kind": "Letter",
+   "family": "European Heart Journal / ESC"
+  }
+ ],
+ "warnings": [
+  "Circ Cardiovasc Qual Outcomes: no PubMed records in the last 120 days — check the NLM abbreviation in config.yaml"
+ ]
+}
